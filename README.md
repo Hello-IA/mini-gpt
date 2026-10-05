@@ -44,7 +44,6 @@ texte = tok.decode(ids)
 assert texte == "Le petit prince regardait les étoiles."
 ```
 
-
 ### Comparaison avec un tokenizer de référence (HuggingFace `tokenizers`)
 
 Pour valider l'implémentation, le tokenizer BPE perso est comparé à un tokenizer BPE entraîné avec la bibliothèque `tokenizers` (HuggingFace), **à conditions égales** : même corpus d'entraînement (`corpus_train.txt`), même taille de vocabulaire (6256 tokens appris, hors octets de base), et évaluation sur le même texte jamais vu à l'entraînement (`corpus_val.txt`, un livre complet mis de côté).
@@ -52,12 +51,9 @@ Pour valider l'implémentation, le tokenizer BPE perso est comparé à un tokeni
 | Métrique | BPE perso | HF `tokenizers` |
 |---|---|---|
 | Taux de compression (chars/token) | 3.19 | 3.16 |
-| Fertilité, mots seuls (tokens/mot) | 1.39 | 1.61 |
+| Fertilité, mots seuls (tokens/mot) | 1.39 | 1.38 |
 | Couverture du vocabulaire | 89.3% | 91.0% |
 
-**Lecture des résultats** :
-- Le taux de compression global est quasiment identique entre les deux implémentations, ce qui valide que l'algorithme de fusion gloutonne est correctement implémenté.
-- L'écart sur la fertilité (1.39 vs 1.61) s'explique probablement par une différence de pré-tokenisation entre les deux implémentations (gestion des apostrophes/contractions françaises, découpage des frontières de mots), plutôt que par une différence de qualité des fusions BPE elles-mêmes — à creuser.
-- La couverture du vocabulaire est légèrement inférieure côté perso, cohérent avec un corpus multi-livres où certains tokens appris (noms propres notamment) sont spécifiques à des livres absents de la validation.
+**Lecture des résultats** : les trois métriques sont quasiment identiques entre les deux implémentations, ce qui valide que l'algorithme de fusion gloutonne BPE est correctement implémenté. La fertilité a été vérifiée mot par mot (voir `scripts/compare_tokenizers.py`) : les deux tokenizers identifient 99.996% des mêmes mots aux mêmes positions dans le texte, ce qui garantit que la comparaison porte bien sur la qualité des fusions apprises, et non sur un artefact de découpage. Le léger écart de couverture du vocabulaire s'explique par le corpus multi-livres : certains tokens appris (noms propres notamment) sont spécifiques à des livres absents de la validation.
 
 *(Méthodologie détaillée des métriques : `scripts/compare_tokenizers.py`)*
