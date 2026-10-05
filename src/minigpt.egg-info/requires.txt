@@ -1,0 +1,6 @@
+regex
+
+[dev]
+pytest
+tiktoken
+ruff
