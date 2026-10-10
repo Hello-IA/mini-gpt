@@ -20,15 +20,13 @@ W_V = init_Matrice(d, d)
 W_O = init_Matrice(d, d)
 
 def reshape_mat(M):
-    new_M = torch.reshape(M, (B, T, n_heads, d_k))
+    new_M = torch.reshape(M, (M.shape[0], M.shape[1], n_heads, d_k))
     new_M = torch.transpose(new_M, 1, 2)
     return new_M
 
 def un_reshape_mat(M):
-    print(M.shape)
     new_M = torch.transpose(M, 1, 2)
-    print(new_M.shape)
-    new_M = torch.reshape(new_M, (new_M.shape[0], T, d))
+    new_M = torch.reshape(new_M, (new_M.shape[0], new_M.shape[1], d))
     return new_M
 def attention(h, W_Q, W_K, W_V, W_O):
     Q = h @ W_Q
@@ -54,5 +52,3 @@ h_cp = X0.clone()
 h_cp[:, 100] += 1
 o1 = attention(X0, W_Q, W_K, W_V, W_O)
 o2 = attention(h_cp, W_Q, W_K, W_V, W_O)
-print((o1[:, :100] - o2[:, :100]).abs().max())   # doit valoir ~0
-print((o1[:, 100:] - o2[:, 100:]).abs().max())   # doit être > 0

@@ -12,18 +12,25 @@ test_files = ["hugo_Notre_Dame_de_Paris.txt"]
 
 train_files = [f for f in files if f not in val_files + test_files]
 
-def concat(file_list, output_name):
-    with open(output_name, "wb") as out:
-        for f in file_list:
-            
-            with open(os.path.join(corpus_dir, f), encoding="utf-8") as inp:
-                encode = bpe.encoder(inp.read())
-                encode = [tok for most in encode for tok in most]
-                encode = np.array(encode, dtype = np.int16)
-                out.write(encode)
-                out.write(b"<|eot|>")
-    print(f"{output_name}: {os.path.getsize(output_name)/1e6:.2f} Mo")
+EOT_ID = 6256   # premier ID libre : le vocabulaire BPE occupe 0..6255
 
+def concat(file_list, output_name):
+    parts = []
+    for f in file_list:
+        with open(os.path.join(corpus_dir, f), encoding="utf-8") as inp:
+            ids = [tok for chunk in bpe.encoder(inp.read()) for tok in chunk]
+        parts.append(np.array(ids + [EOT_ID], dtype=np.int64))   # séparateur = un entier
+
+    arr = np.concatenate(parts)
+    assert arr.min() >= 0 and arr.max() <= EOT_ID
+    arr.astype(np.uint16).tofile(output_name)
+
+    back = np.fromfile(output_name, dtype=np.uint16)              # relecture de contrôle
+    assert len(back) == len(arr)
+    assert os.path.getsize(output_name) == 2 * len(arr)
+    assert (back == arr).all()
+    print(f"{output_name}: {len(arr)} tokens, {os.path.getsize(output_name)/1e6:.2f} Mo")
+    return len(arr)
 concat(train_files, "data/s_train.bin")
 concat(val_files, "data/s_val.bin")
 concat(test_files, "data/s_test.bin")
