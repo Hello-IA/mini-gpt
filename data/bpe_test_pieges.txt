@@ -1,0 +1,76 @@
+=== Guillemets et ponctuation française ===
+« Bonjour, dit-il, comment allez-vous ? »
+« Je ne sais pas », répondit-elle, « peut-être demain... »
+Il s'écria : "Attendez !" puis il partit.
+Elle demanda : « Pourquoi donc ? » — « Je n'en sais rien », fit-il.
+
+=== Apostrophes (typographique vs droite) ===
+L'homme qui rit. L’homme qui rit.
+Qu'est-ce que c'est ? Qu’est-ce que c’est ?
+Aujourd'hui, j'irai voir d'autres choses.
+Aujourd’hui, j’irai voir d’autres choses.
+C'est-à-dire que j'y pense.
+
+=== Contractions et élisions (selon ta regex l d n j m t s c) ===
+l'arbre, d'accord, n'importe, j'arrive, m'appelle, t'inquiète, s'il te plaît, c'est
+L'Arbre, D'Accord, N'Importe, J'Arrive
+
+=== Tirets et traits d'union ===
+— Bonjour, dit-elle.
+— Je viens, répondit-il. — Attendez-moi !
+C'est un arc-en-ciel extraordinaire.
+Le passe-partout avant-hier, un va-et-vient incessant.
+Un tiret cadratin — comme celui-ci — et un demi-cadratin – comme celui-là.
+Un simple trait d'union - comme ceci.
+
+=== Accents et diacritiques ===
+é è ê ë à â ä ù û ü ô ö î ï ç
+Été, déjà, être, forêt, naïve, Noël, garçon, où, âme
+É È Ê Ë À Â Ä Ù Û Ü Ô Ö Î Ï Ç
+ÉTÉ DÉJÀ ÊTRE FORÊT NAÏVE NOËL GARÇON OÙ ÂME
+
+=== Mêmes mots en forme composée (NFC) et décomposée (NFD) ===
+café café
+déjà déjà
+noël noël
+
+=== Nombres et formats ===
+Il avait 25 ans en 1832.
+Le prix était de 1 234,56 euros, soit environ 3,14 fois plus cher.
+Page 42, chapitre III, tome 1er.
+Elle est née le 15/08/1800, au XIXe siècle.
+Numéro de téléphone fictif : 01 23 45 67 89.
+
+=== Majuscules, minuscules et casse mixte ===
+VICTOR HUGO écrivait des ROMANS.
+Victor Hugo écrivait des romans.
+vICTOR hUGO
+CaFé MiXte DeCaSsE
+
+=== Ponctuation consécutive et répétée ===
+Non !!! Vraiment ??? C'est incroyable...
+Il hésita... puis reprit : "Eh bien... soit."
+Attends,,, je réfléchis.
+Un point final.. deux points.... trois points.......
+
+=== Espaces, tabulations et retours à la ligne ===
+Un    espace    multiple.
+Une	tabulation	au milieu.
+Une ligne
+
+avec une ligne vide au milieu.
+Espace en début de ligne.
+ Espace en fin de ligne.
+
+=== Emojis et caractères multi-octets (4 octets UTF-8) ===
+Il sourit 😀 puis s'en alla 🚶‍♂️ vers la forêt 🌳.
+Les symboles mathématiques : 𝕏 𝔸 𝓐 fonctionnent-ils ?
+Caractère rare : 𠀀 (CJK étendu, 4 octets UTF-8).
+Drapeau : 🇫🇷 texte après.
+
+=== Mélange de scripts ===
+Il parlait français, English, Ελληνικά et日本語.
+Un mot arabe au milieu : مرحبا puis on continue en français.
+
+=== Texte normal de contrôle (doit être parfaitement reconstruit) ===
+Il marchait depuis le matin, sans but précis, dans les rues désertes de Paris. La pluie avait cessé, mais le pavé restait luisant sous la lumière pâle des réverbères. Il pensait à Cosette, à Jean Valjean, à tout ce qui avait précédé cette nuit étrange.

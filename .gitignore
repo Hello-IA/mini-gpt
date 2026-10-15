@@ -1,5 +1,3 @@
 mini-gpt/
 __pycache__/
 *.pyc
-data/
-checkpoints/
