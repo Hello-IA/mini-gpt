@@ -1,8 +1,37 @@
+Produced by Adrian Mastronardi, Rénald Lévesque and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+(This file was produced from images generously made
+available by the Bibliothèque nationale de France
+(BnF/Gallica).
 
+LES
+CONTEMPLATIONS
 
+PAR
+
+VICTOR HUGO
+
+II
+
+AUJOURD'HUI.--1843-1856
+
+Cinquième Édition
+
+COLLECTION HETZEL
+
+PARIS
+LIBRAIRIE L. HACHETTE ET Cie
+RUE PIERRE-SARRAZIN, 14
+
+1858
+
+Tous droits réservés
+
+LIVRE QUATRIÈME
+
+PAUCA MEÆ
 
 I
-
 
 Pure Innocence! Vertu sainte!
 O les deux sommets d'ici-bas!
@@ -51,11 +80,7 @@ Ce pied nu, c'est le tien, amour!
 
 Janvier 1843.
 
-
-
-
 15 FÉVRIER 1843
-
 
 Aime celui qui t'aime, et sois heureuse en lui.
 --Adieu!--sois son trésor, ô toi qui fus le nôtre!
@@ -69,18 +94,11 @@ Sors avec une larme! entre avec un sourire!
 
 Dans l'église, 15 février 1843.
 
-
-
-
 4 SEPTEMBRE 1843
-
-
-
 
 III
 
 TROIS ANS APRÈS
-
 
 Il est temps que je me repose;
 Je suis terrassé par le sort.
@@ -244,11 +262,7 @@ Oh! l'herbe épaisse où sont les morts!
 
 Novembre 1846.
 
-
-
-
 IV
-
 
 Oh! je fus comme fou dans le premier moment,
 Hélas! et je pleurai trois jours amèrement.
@@ -274,11 +288,7 @@ Car elle est quelque part dans la maison sans doute!
 
 Jersey, Marine-Terrace, 4 septembre 1852.
 
-
-
-
 V
-
 
 Elle avait pris ce pli dans son âge enfantin
 De venir dans ma chambre un peu chaque matin
@@ -309,11 +319,7 @@ Si j'avais, en partant, vu quelque ombre en ses yeux.
 
 Novembre 1846, jour des morts.
 
-
-
-
 V
-
 
 Quand nous habitions tous ensemble
 Sur nos collines d'autrefois,
@@ -382,11 +388,7 @@ Comme l'ombre et comme le vent!
 
 Villequier, 4 septembre 1844.
 
-
-
-
 VII
-
 
 Elle était pâle, et pourtant rose,
 Petite avec de grands cheveux.
@@ -440,47 +442,39 @@ Tressaillir le livre de Dieu!
 
 Octobre 1846.
 
-
-
-
 VIII
-
 
 A qui donc sommes-nous? Qui nous a? qui nous mène?
 Vautour fatalité, tiens-tu la race humaine?
-          Oh! parlez, cieux vermeils,
+Oh! parlez, cieux vermeils,
 L'âme sans fond tient-elle aux étoiles sans nombre?
 Chaque rayon d'en haut est-il un fil de l'ombre
-          Liant l'homme aux soleils?
+Liant l'homme aux soleils?
 
 Est-ce qu'en nos esprits, que l'ombre a pour repaires,
 Nous allons voir rentrer les songes de nos pères?
-          Destin, lugubre assaut!
+Destin, lugubre assaut!
 O vivants, serions-nous l'objet d'une dispute?
 L'un veut-il notre gloire, et l'autre notre chute?
-          Combien sont-ils là-haut?
+Combien sont-ils là-haut?
 
 Jadis, au fond du ciel, aux yeux du mage sombre,
 Deux joueurs effrayants apparaissaient dans l'ombre.
-          Qui craindre? qui prier?
+Qui craindre? qui prier?
 Les Manès frissonnants, les pâles Zoroastres
 Voyaient deux grandes mains qui déplaçaient les astres
-          Sur le noir échiquier.
+Sur le noir échiquier.
 
 Songe horrible! le bien, le mal, de cette voûte
 Pendent-ils sur nos fronts? Dieu, tire-moi du doute
-          O sphinx, dis-moi le mot!
+O sphinx, dis-moi le mot!
 Cet affreux rêve pèse à nos yeux qui sommeillent,
 Noirs vivants! heureux ceux qui tout à coup s'éveillent
-          Et meurent en sursaut!
+Et meurent en sursaut!
 
 Villequier, 4 septembre 1845.
 
-
-
-
 IX
-
 
 O souvenirs! printemps! aurore!
 Doux rayon triste et réchauffant!
@@ -549,11 +543,7 @@ J'entrevoyais un coin des cieux!
 
 Villequier, 4 septembre 1846.
 
-
-
-
 X
-
 
 Pendant que le marin, qui calcule et qui doute,
 Demande son chemin aux constellations;
@@ -569,11 +559,7 @@ Des anges frissonnants qui glissent dans l'azur.
 
 Avril 1847.
 
-
-
-
 XI
-
 
 On vit, on parle, on a le ciel et les nuages
 Sur la tête; on se plaît aux livres des vieux sages;
@@ -599,21 +585,17 @@ Puis, le vaste et profond silence de la mort!
 
 11 juillet 1846, en revenant du cimetière.
 
-
-
-
 XII
 
 A QUOI SONGEAIENT
 LES DEUX CAVALIERS DANS LA FORÊT
-
 
 La nuit était fort noire et la forêt très-sombre.
 Hermann à mes côtés me paraissait une ombre.
 Nos chevaux galopaient. A la garde de Dieu!
 Les nuages du ciel ressemblaient à des marbres.
 Les étoiles volaient dans les branches des arbres
-       Comme un essaim d'oiseaux de feu.
+Comme un essaim d'oiseaux de feu.
 
 Je suis plein de regrets. Brisé par la souffrance,
 L'esprit profond d'Hermann est vide d'espérance.
@@ -625,9 +607,9 @@ Et je lui dis: «Je pense aux tombeaux refermés.»
 Lui regarde eu avant: je regarde en arrière,
 Nos chevaux galopaient à travers la clairière;
 Le vent nous apportait de lointains angelus;
-  dit: «Je songe à ceux que l'existence afflige,
+dit: «Je songe à ceux que l'existence afflige,
 A ceux qui sont, à ceux qui vivent.--Moi,» lui dis-je,
-       «Je pense à ceux qui ne sont plus!»
+«Je pense à ceux qui ne sont plus!»
 
 Les fontaines chantaient. Que disaient les fontaines?
 Les chênes murmuraient. Que murmuraient les chênes?
@@ -641,7 +623,7 @@ Les morts ne souffrent plus. Ils sont heureux! j'envie
 Leur fosse où l'herbe pousse, où s'effeuillent les bois.
 «Car la nuit les caresse avec ses douces flammes;
 Car le ciel rayonnant calme toutes les âmes
-       Dans tous les tombeaux à la fois!»
+Dans tous les tombeaux à la fois!»
 
 Et je lui dis: «Tais-toi! respect au noir mystère!
 Les morts gisent couchés sous nos pieds dans la terre.
@@ -652,13 +634,9 @@ Comme à travers un rêve ils entendent nos voix.»
 
 Octobre 1853.
 
-
-
-
 XIII
 
 VENI, VIDI, VIXI
-
 
 J'ai bien assez vécu, puisque dans mes douleurs
 Je marche, sans trouver de bras qui me secourent,
@@ -702,11 +680,7 @@ Afin que je m'en aille et que je disparaisse!
 
 Avril 1848.
 
-
-
-
 XIV
-
 
 Demain, dès l'aube, à l'heure où blanchit la campagne,
 Je partirai. Vois-tu, je sais que tu m'attends.
@@ -725,13 +699,9 @@ Un bouquet de houx vert et de bruyère en fleur.
 
 3 Septembre 1847.
 
-
-
-
 XV
 
 A VILLEQUIER
-
 
 Maintenant que Paris, ses pavés et ses marbres,
 Et sa brume et ses toits sont bien loin de mes yeux;
@@ -739,9 +709,9 @@ Maintenant que je suis sous les branches des arbres,
 Et que je puis songer à la beauté des cieux;
 
 Maintenant que du deuil qui m'a fait l'âme obscure
-          Je sors, pâle et vainqueur,
+Je sors, pâle et vainqueur,
 Et que je sens la paix de la grande nature
-          Qui m'entre dans le coeur;
+Qui m'entre dans le coeur;
 
 Maintenant que je puis, assis au bord des ondes,
 Ému par ce superbe et tranquille horizon,
@@ -749,9 +719,9 @@ Examiner en moi les vérités profondes
 Et regarder les fleurs qui sont dans le gazon;
 
 Maintenant, ô mon Dieu! que j'ai ce calme sombre
-          De pouvoir désormais
+De pouvoir désormais
 Voir de mes yeux la pierre où je sais que dans l'ombre
-          Elle dort pour jamais;
+Elle dort pour jamais;
 
 Maintenant qu'attendri par ces divins spectacles,
 Plaines, forêts, rochers, vallons, fleuve argenté,
@@ -759,9 +729,9 @@ Voyant ma petitesse et voyant vos miracles,
 Je reprends ma raison devant l'immensité;
 
 Je viens à vous, Seigneur, père auquel il faut croire;
-          Je vous porte, apaisé,
+Je vous porte, apaisé,
 Les morceaux de ce coeur tout plein de votre gloire
-          Que vous avez brisé;
+Que vous avez brisé;
 
 Je viens à vous, Seigneur! confessant que vous êtes
 Bon, clément, indulgent et doux, ô Dieu vivant!
@@ -769,9 +739,9 @@ Je conviens que vous seul savez ce que vous faites,
 Et que l'homme n'est rien qu'un jonc qui tremble au vent;
 
 Je dis que le tombeau qui sur les morts se ferme
-          Ouvre le firmament;
+Ouvre le firmament;
 Et que ce qu'ici-bas nous prenons pour le terme
-          Est le commencement;
+Est le commencement;
 
 Je conviens à genoux que vous seul, père auguste,
 Possédez l'infini, le réel, l'absolu;
@@ -779,9 +749,9 @@ Je conviens qu'il est bon, je conviens qu'il est juste
 Que mon coeur ait saigné, puisque Dieu l'a voulu!
 
 Je ne résiste plus à tout ce qui m'arrive
-          Par votre volonté.
+Par votre volonté.
 L'âme de deuils en deuils, l'homme de rive en rive,
-          Roule à l'éternité.
+Roule à l'éternité.
 
 Nous ne voyons jamais qu'un seul côté des choses;
 L'autre plonge en la nuit d'un mystère effrayant.
@@ -789,9 +759,9 @@ L'homme subit le joug sans connaître les causes.
 Tout ce qu'il voit est court, inutile et fuyant.
 
 Vous faites revenir toujours la solitude
-          Autour de tous ses pas.
+Autour de tous ses pas.
 Vous n'avez pas voulu qu'il eût la certitude
-          Ni la joie ici-bas!
+Ni la joie ici-bas!
 
 Dès qu'il possède un bien, le sort le lui retire.
 Rien ne lui fut donné, dans ses rapides jours,
@@ -799,9 +769,9 @@ Pour qu'il s'en puisse faire une demeure, et dire:
 C'est ici ma maison, mon champ et mes amours!
 
 Il doit voir peu de temps tout ce que ses yeux voient;
-          Il vieillit sans soutiens.
+Il vieillit sans soutiens.
 Puisque ces choses sont, c'est qu'il faut qu'elles soient;
-          J'en conviens, j'en conviens!
+J'en conviens, j'en conviens!
 
 Le monde est sombre, ô Dieu! l'immuable harmonie
 Se compose des pleurs aussi bien que des chants;
@@ -809,9 +779,9 @@ L'homme n'est qu'un atome en cette ombre infinie,
 Nuit où montent les bons, où tombent les méchants.
 
 Je sais que vous avez bien autre chose à faire
-          Que de nous plaindre tous,
+Que de nous plaindre tous,
 Et qu'un enfant qui meurt, désespoir de sa mère,
-          Ne vous fait rien, à vous!
+Ne vous fait rien, à vous!
 
 Je sais que le fruit tombe au vent qui le secoue;
 Que l'oiseau perd sa plume et la fleur son parfum;
@@ -819,9 +789,9 @@ Que la création est une grande roue
 Qui ne peut se mouvoir sans écraser quelqu'un;
 
 Les mois, les jours, les flots des mers, les yeux qui pleurent,
-          Passent sous le ciel bleu;
+Passent sous le ciel bleu;
 Il faut que l'herbe pousse et que les enfants meurent;
-          Je le sais, ô mon Dieu!
+Je le sais, ô mon Dieu!
 
 Dans vos cieux, au delà de la sphère des nues,
 Au fond de cet azur immobile et dormant,
@@ -829,9 +799,9 @@ Peut-être faites-vous des choses inconnues
 Où la douleur de l'homme entre comme élément.
 
 Peut-être est-il utile à vos desseins sans nombre
-          Que des êtres charmants
+Que des êtres charmants
 S'en aillent, emportés par le tourbillon sombre
-          Des noirs événements.
+Des noirs événements.
 
 Nos destins ténébreux vont sous des lois immenses
 Que rien ne déconcerte et que rien n'attendrit.
@@ -839,9 +809,9 @@ Vous ne pouvez avoir de subites démences
 Qui dérangent le monde, ô Dieu, tranquille esprit!
 
 Je vous supplie, ô Dieu! de regarder mon âme,
-          Et de considérer
+Et de considérer
 Qu'humble comme un enfant et doux comme une femme
-          Je viens vous adorer!
+Je viens vous adorer!
 
 Considérez encor que j'avais, dès l'aurore,
 Travaillé, combattu, pensé, marché, lutté,
@@ -849,9 +819,9 @@ Expliquant la nature à l'homme qui l'ignore,
 Éclairant toute chose avec votre clarté;
 
 Que j'avais, affrontant la haine et la colère,
-          Fait ma tâche ici-bas,
+Fait ma tâche ici-bas,
 Que je ne pouvais pas m'attendre à ce salaire,
-          Que je ne pouvais pas
+Que je ne pouvais pas
 
 Prévoir que, vous aussi, sur ma tête qui ploie,
 Vous appesantiriez votre bras triomphant,
@@ -859,9 +829,9 @@ Et que, vous qui voyiez comme j'ai peu de joie,
 Vous me reprendriez si vite mon enfant!
 
 Qu'une âme ainsi frappée à se plaindre est sujette,
-          Que j'ai pu blasphémer,
+Que j'ai pu blasphémer,
 Et vous jeter mes cris comme un enfant qui jette
-          Une pierre à la mer!
+Une pierre à la mer!
 
 Considérez qu'on doute, ô mon Dieu! quand on souffre,
 Que l'oeil qui pleure trop finit par s'aveugler.
@@ -869,9 +839,9 @@ Qu'un être que son deuil plonge au plus noir du gouffre,
 Quand il ne vous voit plus, ne peut vous contempler,
 
 Et qu'il ne se peut pas que l'homme, lorsqu'il sombre
-          Dans les afflictions,
+Dans les afflictions,
 Ait présente à l'esprit la sérénité sombre
-          Des constellations!
+Des constellations!
 
 Aujourd'hui, moi qui fus faible comme une mère,
 Je me courbe à vos pieds devant vos cieux ouverts.
@@ -879,9 +849,9 @@ Je me sens éclairé dans ma douleur amère
 Par un meilleur regard jeté sur l'univers.
 
 Seigneur, je reconnais que l'homme est en délire,
-          S'il ose murmurer;
+S'il ose murmurer;
 Je cesse d'accuser, je cesse de maudire,
-          Mais laissez-moi pleurer!
+Mais laissez-moi pleurer!
 
 Hélas! laissez les pleurs couler de ma paupière,
 Puisque vous avez fait les hommes pour cela!
@@ -889,9 +859,9 @@ Laissez-moi me pencher sur cette froide pierre
 Et dire à mon enfant: Sens-tu que je suis là?
 
 Laissez-moi lui parler, incliné sur ses restes,
-          Le soir, quand tout se tait,
+Le soir, quand tout se tait,
 Comme si, dans sa nuit rouvrant ses yeux célestes,
-          Cet ange m'écoutait!
+Cet ange m'écoutait!
 
 Hélas! vers le passé tournant un oeil d'envie,
 Sans que rien ici-bas puisse m'en consoler,
@@ -899,9 +869,9 @@ Je regarde toujours ce moment de ma vie
 Où je l'ai vue ouvrir son aile et s'envoler!
 
 Je verrai cet instant jusqu'à ce que je meure,
-          L'instant, pleurs superflus!
+L'instant, pleurs superflus!
 Où je criai: L'enfant que j'avais tout à l'heure,
-          Quoi donc! je ne l'ai plus!
+Quoi donc! je ne l'ai plus!
 
 Ne vous irritez pas que je sois de la sorte,
 O mon Dieu! cette plaie a si longtemps saigné!
@@ -909,9 +879,9 @@ L'angoisse dans mon âme est toujours la plus forte,
 Et mon coeur est soumis, mais n'est pas résigné.
 
 Ne vous irritez pas! fronts que le deuil réclame,
-          Mortels sujets aux pleurs,
+Mortels sujets aux pleurs,
 Il nous est malaisé de retirer notre âme
-          De ces grandes douleurs.
+De ces grandes douleurs.
 
 Voyez-vous, nos enfants nous sont bien nécessaires,
 Seigneur; quand on a vu dans sa vie, un matin,
@@ -919,9 +889,9 @@ Au milieu des ennuis, des peines, des misères,
 Et de l'ombre que fait sur nous notre destin,
 
 Apparaître un enfant, tête chère et sacrée,
-          Petit être joyeux,
+Petit être joyeux,
 Si beau, qu'on a cru voir s'ouvrir à son entrée
-          Une porte des cieux;
+Une porte des cieux;
 
 Quand on a vu, seize ans, de cet autre soi-même
 Croître la grâce aimable et la douce raison,
@@ -929,19 +899,15 @@ Lorsqu'on a reconnu que cet enfant qu'on aime
 Fait le jour dans notre âme et dans notre maison,
 
 Que c'est la seule joie ici-bas qui persiste
-          De tout ce qu'on rêva,
+De tout ce qu'on rêva,
 Considérez que c'est une chose bien triste
-          De le voir qui s'en va!
+De le voir qui s'en va!
 
 Villequier, 4 septembre 1847.
-
-
-
 
 XVI
 
 MORS
-
 
 Je vis cette faucheuse. Elle était dans son champ.
 Elle allait à grands pas moissonnant et fauchant,
@@ -967,175 +933,164 @@ Un ange souriant portait la gerbe d'âmes.
 
 Mars 1854.
 
-
-
-
 XVIII
 
 CHARLES VACQUERIE
 
-
 Il ne sera pas dit que ce jeune homme, ô deuil!
 Se sera de ses mains ouvert l'affreux cercueil
-        Où séjourne l'ombre abhorrée,
+Où séjourne l'ombre abhorrée,
 Hélas! et qu'il aura lui-même dans la mort
 De ses jours généreux, encor pleins jusqu'au bord,
-        Renversé la coupe dorée,
+Renversé la coupe dorée,
 
 Et que sa mère, pâle et perdant la raison,
 Aura vu rapporter au seuil de sa maison,
-        Sous un suaire aux plis funèbres,
+Sous un suaire aux plis funèbres,
 Ce fils, naguère encor pareil au jour qui naît,
 Maintenant blême et froid, tel que la mort venait
-        De le faire pour les ténèbres;
+De le faire pour les ténèbres;
 
 Il ne sera pas dit qu'il sera mort ainsi,
 Qu'il aura, coeur profond et par l'amour saisi,
-        Donné sa vie à ma colombe,
+Donné sa vie à ma colombe,
 Et qu'il l'aura suivie au lieu morne et voilé,
 Sans que la voix du père à genoux ait parlé
-        À cette âme dans cette tombe!
+À cette âme dans cette tombe!
 
 En présence de tant d'amour et de vertu,
 Il ne sera pas dit que je me serai tu,
-        Moi qu'attendent les maux sans nombre!
+Moi qu'attendent les maux sans nombre!
 Que je n'aurai point mis sur sa bière un flambeau,
 Et que je n'aurai pas devant son noir tombeau
-        Fait asseoir une strophe sombre!
+Fait asseoir une strophe sombre!
 
 N'ayant pu la sauver, il a voulu mourir.
 Sois béni, toi qui, jeune, à l'âge où vient s'offrir
-        L'espérance joyeuse encore,
+L'espérance joyeuse encore,
 Pouvant rester, survivre, épuiser tes printemps,
 Ayant devant les yeux l'azur de tes vingt ans
-        Et le sourire de l'aurore,
+Et le sourire de l'aurore,
 
 À tout ce que promet la jeunesse, aux plaisirs,
 Aux nouvelles amours, aux oublieux désirs
-        Par qui toute peine est bannie,
+Par qui toute peine est bannie,
 À l'avenir, trésor des jours à peine éclos,
 À la vie, au soleil, préféras sous les flots
-        L'étreinte de cette agonie!
+L'étreinte de cette agonie!
 
 Oh! quelle sombre joie à cet être charmant
 De se voir embrassée au suprême moment,
-        Par ton doux désespoir fidèle!
+Par ton doux désespoir fidèle!
 La pauvre âme a souri dans l'angoisse, en sentant
 À travers l'eau sinistre et l'effroyable instant
-        Que tu t'en venais avec elle!
+Que tu t'en venais avec elle!
 
 Leurs âmes se parlaient sous les vagues rumeurs.
 --Que fais-tu? disait-elle.--Et lui disait:--Tu meurs
-        Il faut bien aussi que je meure!--
+Il faut bien aussi que je meure!--
 Et, les bras enlacés, doux couple frissonnant,
 Ils se sont en allés dans l'ombre; et maintenant,
-        On entend le fleuve qui pleure.
+On entend le fleuve qui pleure.
 
 Puisque tu fus si grand, puisque tu fus si doux
 Que de vouloir mourir, jeune homme, amant, époux,
-         Qu'à jamais l'aube en ta nuit brille!
+Qu'à jamais l'aube en ta nuit brille!
 Aie à jamais sur toi l'ombre de Dieu penché!
 Sois béni sous la pierre où te voilà couché!
-         Dors, mon fils, auprès de ma fille!
+Dors, mon fils, auprès de ma fille!
 
 Sois béni! que la brise et que l'oiseau des bois,
 Passants mystérieux, de leur plus douce voix
-         Te parlent dans ta maison sombre!
+Te parlent dans ta maison sombre!
 Que la source te pleure avec sa goutte d'eau!
 Que le frais liseron se glisse en ton tombeau
-         Comme une caresse de l'ombre!
+Comme une caresse de l'ombre!
 
 Oh! s'immoler, sortir avec l'ange qui sort,
 Suivre ce qu'on aima dans l'horreur de la mort,
-         Dans le sépulcre ou sur les claies,
+Dans le sépulcre ou sur les claies,
 Donner ses jours, son sang et ses illusions!...--
 Jésus baise en pleurant ces saintes actions
-         Avec les lèvres de ses plaies.
+Avec les lèvres de ses plaies.
 
 Rien n'égale ici-bas, rien n'atteint sous les cieux
 Ces héros, doucement saignants et radieux,
-         Amour, qui n'ont que toi pour règle;
+Amour, qui n'ont que toi pour règle;
 Le génie à l'oeil fixe, au vaste élan vainqueur,
 Lui-même est dépassé par ces essors du coeur;
-         L'ange vole plus haut que l'aigle.
+L'ange vole plus haut que l'aigle.
 
 Dors!--O mes douloureux et sombres bien-aimés!
 Dormez le chaste hymen du sépulcre! dormez!
-         Dormez au bruit du flot qui gronde,
+Dormez au bruit du flot qui gronde,
 Tandis que l'homme souffre, et que le vent lointain
 Chasse les noirs vivants à travers le destin,
-         Et les marins à travers l'onde!
+Et les marins à travers l'onde!
 
 Ou plutôt, car la mort n'est pas un lourd sommeil,
 Envolez-vous tous deux dans l'abîme vermeil,
-         Dans les profonds gouffres de joie,
+Dans les profonds gouffres de joie,
 Où le juste qui meurt semble un soleil levant,
 Où la mort au front pâle est comme un lys vivant,
-         Où l'ange frissonnant flamboie!
+Où l'ange frissonnant flamboie!
 
 Fuyez, mes doux oiseaux! évadez-vous tous deux
 Loin de notre nuit froide et loin du mal hideux!
-         Franchissez l'éther d'un coup d'aile!
+Franchissez l'éther d'un coup d'aile!
 Volez loin de ce monde, âpre hiver sans clarté,
 Vers cette radieuse et bleue éternité,
-         Dont l'âme humaine est l'hirondelle!
+Dont l'âme humaine est l'hirondelle!
 
 O chers êtres absents, on ne vous verra plus
 Marcher au vert penchant des coteaux chevelus,
-         Disant tout bas de douces choses!
+Disant tout bas de douces choses!
 Dans le mois des chansons, des nids et des lilas,
 Vous n'irez plus semant des sourires, hélas!
-         Vous n'irez plus cueillant des roses!
+Vous n'irez plus cueillant des roses!
 
 On ne vous verra plus, dans ces sentiers joyeux,
 Errer, et, comme si vous évitiez les yeux
-         De l'horizon vaste et superbe,
+De l'horizon vaste et superbe,
 Chercher l'obscur asile et le taillis profond
 Où passent des rayons qui tremblent et qui font
-         Des taches de soleil sur l'herbe!
+Des taches de soleil sur l'herbe!
 
 Villequier, Caudebec, et tous ces frais vallons,
 Ne vous entendront plus vous écrier: «Allons,
-         Le vent est bon, la Seine est belle!»
+Le vent est bon, la Seine est belle!»
 Comme ces lieux charmants vont être pleins d'ennui!
 Les hardis goëlands ne diront plus: C'est lui!
-         Les fleurs ne diront plus: C'est elle!
+Les fleurs ne diront plus: C'est elle!
 
 Dieu, qui ferme la vie et rouvre l'idéal,
 Fait flotter à jamais votre lit nuptial
-         Sous le grand dôme aux clairs pilastres;
+Sous le grand dôme aux clairs pilastres;
 En vous prenant la terre, il vous prit les douleurs;
 Ce père souriant, pour les champs pleins de fleurs,
-         Vous donne les cieux remplis d'astres!
+Vous donne les cieux remplis d'astres!
 
 Allez des esprits purs accroître la tribu.
 De cette coupe amère où vous n'avez pas bu,
-         Hélas! nous viderons le reste.
+Hélas! nous viderons le reste.
 Pendant que nous pleurons, de sanglots abreuvés,
 Vous, heureux, enivrés de vous-mêmes, vivez
-         Dans l'éblouissement céleste!
+Dans l'éblouissement céleste!
 
 Vivez! aimez! ayez les bonheurs infinis.
 Oh! les anges pensifs, bénissant et bénis,
-         Savent seuls, sous les sacrés voiles,
+Savent seuls, sous les sacrés voiles,
 Ce qu'il entre d'extase, et d'ombre, et de ciel bleu,
 Dans l'éternel baiser de deux âmes que Dieu
-         Tout à coup change en deux étoiles!
+Tout à coup change en deux étoiles!
 
 Jersey, 4 septembre 1852.
-
-
-
 
 LIVRE CINQUIÈME
 
 EN MARCHE
 
-
-
-
 À AUG. V.
-
 
 Et toi, son frère, sois le frère de mes fils.
 Coeur fier, qui du destin relèves les défis,
@@ -1174,13 +1129,9 @@ Lui, la fille au tombeau, toi, le père à l'exil!
 
 Jersey, Marine-Terrace, 4 septembre 1852.
 
-
-
-
 II
 
 AU FILS D'UN POËTE
-
 
 Enfant, laisse aux mers inquiètes
 Le naufragé, tribun ou roi;
@@ -1224,13 +1175,9 @@ Où s'enfonçait-il? Dans la nuit.
 
 Paris, juillet 1838.
 
-
-
-
 III
 
 ÉCRIT EN 1846
-
 
 «... Je vous ai vu enfant, monsieur, chez votre
 respectable mère, et nous sommes même un peu
@@ -1400,7 +1347,7 @@ Pourquoi regardes-tu par-dessus la muraille?
 Où vas-tu? d'où viens-tu? qui te rend si hardi?
 Depuis qu'on ne t'a vu, qu'as-tu fait?»
 
-      J'ai grandi.
+J'ai grandi.
 
 Quoi! parce que je suis né dans un groupe d'hommes
 Qui ne voyaient qu'enfers, Gomorrhes et Sodomes,
@@ -1439,7 +1386,7 @@ L'azur.
 
 IV
 
-        Écoutez-moi. J'ai vécu; j'ai songé.
+Écoutez-moi. J'ai vécu; j'ai songé.
 La vie en larmes m'a doucement corrigé.
 Vous teniez mon berceau dans vos mains, et vous fîtes
 Ma pensée et ma tête en vos rêves confites.
@@ -1697,8 +1644,7 @@ Rien de ce but profond ne distraira mon coeur,
 Ma volonté, mes pas, mes cris, mes voeux, ma flamme!
 O saint tombeau, tu vois dans le fond de mon âme!
 
-[Note 1: On n'a rien changé à ces vers, écrits en 1846. Aujourd'hui,
-l'auteur eût ajouté Claremont.]
+[Note 1: On n'a rien changé à ces vers, écrits en 1846. Aujourd'hui, l'auteur eût ajouté Claremont.]
 
 Oh! jamais, quel que soit le sort, le deuil, l'affront,
 La conscience en moi ne baissera le front;
@@ -1711,11 +1657,7 @@ Dans l'aube, dans la nuit, l'oeil de ma mère morte!
 
 Paris, juin 1846.
 
-
-
-
 ÉCRIT EN 1855
-
 
 J'ajoute un post-scriptum après neuf ans. J'écoute:
 Êtes-vous toujours là? Vous êtes mort sans doute,
@@ -1748,11 +1690,7 @@ Tout est horreur et nuit.--Après?--Je suis content.
 
 Jersey, janvier 1855.
 
-
-
-
 IV
-
 
 La source tombait du rocher
 Goutte à goutte à la mer affreuse.
@@ -1771,128 +1709,120 @@ Une goutte d'eau qu'on peut boire.»
 
 Avril 1854.
 
-
-
-
 V
 
 À MADEMOISELLE LOUISE B.
 
-
 Ô vous l'âme profonde! ô vous la sainte lyre!
 Vous souvient-il des temps d'extase et de délire,
-          Et des jeux triomphants,
+Et des jeux triomphants,
 Et du soir qui tombait des collines prochaines?
 Vous souvient-il des jours? Vous souvient-il des chênes
-          Et des petits enfants?
+Et des petits enfants?
 
 Et vous rappelez-vous les amis et la table,
 Et le rire éclatant du père respectable,
-          Et nos cris querelleurs,
+Et nos cris querelleurs,
 Le pré, l'étang, la barque, et la lune, et la brise,
 Et les chants qui sortaient de votre coeur, Louise,
-          En attendant les pleurs!
+En attendant les pleurs!
 
 Le parc avait des fleurs et n'avait pas de marbres.
 Oh! comme il était beau, le vieillard sous les arbres!
-          Je le voyais parfois
+Je le voyais parfois
 Dès l'aube sur un banc s'asseoir tenant un livre;
 Je sentais, j'entendais l'ombre autour de lui vivre
-          Et chanter dans les bois!
+Et chanter dans les bois!
 
 Il lisait, puis dormait au baiser de l'aurore;
 Et je le regardais dormir, plus calme encore
-          Que ce paisible lieu,
+Que ce paisible lieu,
 Avec son front serein d'où sortait une flamme,
 Son livre ouvert devant le soleil, et son âme
-          Ouverte devant Dieu!
+Ouverte devant Dieu!
 
 Et du fond de leur nid, sous l'orme et sous l'érable,
 Les oiseaux admiraient sa tête vénérable,
-          Et, gais chanteurs tremblants,
+Et, gais chanteurs tremblants,
 Ils guettaient, s'approchaient, et souhaitaient dans l'ombre
 D'avoir, pour augmenter la douceur du nid sombre,
-          Un de ses cheveux blancs!
+Un de ses cheveux blancs!
 
 Puis il se réveillait, s'en allait vers la grille,
 S'arrêtait pour parler à ma petite fille,
-          Et ces temps sont passés!
+Et ces temps sont passés!
 Le vieillard et l'enfant jasaient de mille choses ...
 Vous ne voyiez donc pas ces deux êtres, ô roses,
-          Que vous refleurissez!
+Que vous refleurissez!
 
 Avez-vous bien le coeur, ô roses, de renaître
 Dans le même bosquet, sous la même fenêtre?
-          Où sont-ils, ces fronts purs?
+Où sont-ils, ces fronts purs?
 N'était-ce pas vos soeurs, ces deux âmes perdues
 Qui vivaient, et se sont si vite confondues
-          Aux éternels azurs!
+Aux éternels azurs!
 
 Est-ce que leur sourire, est-ce que leurs paroles,
 Ô roses, n'allaient pas réjouir vos corolles
-          Dans l'air silencieux,
+Dans l'air silencieux,
 Et ne s'ajoutaient pas à vos chastes délices,
 Et ne devenaient pas parfums dans vos calices,
-          Et rayons dans vos cieux?
+Et rayons dans vos cieux?
 
 Ingrates! vous n'avez ni regrets, ni mémoire.
 Vous vous réjouissez dans toute votre gloire;
-          Vous n'avez point pâli.
+Vous n'avez point pâli.
 Ah! je ne suis qu'un homme et qu'un roseau qui ploie
 Mais je ne voudrais pas, quant à moi, d'une joie
-          Faite de tant d'oubli!
+Faite de tant d'oubli!
 
 Oh! qu'est-ce que le sort a fait de tout ce rêve?
 Où donc a-t-il jeté l'humble coeur qui s'élève,
-          Le foyer réchauffant,
+Le foyer réchauffant,
 Ô Louise, et la vierge, et le vieillard prospère,
 Et tous ces voeux profonds, de moi pour votre père,
-          De vous pour mon enfant!
+De vous pour mon enfant!
 
 Où sont-ils, les amis de ce temps que j'adore?
 Ceux qu'a pris l'ombre, et ceux qui ne sont pas encore
-          Tombés au flot sans bords;
+Tombés au flot sans bords;
 Eux, les évanouis, qu'un autre ciel réclame,
 Et vous, les demeurés, qui vivez dans mon âme,
-          Mais pas plus que les morts!
+Mais pas plus que les morts!
 
 Quelquefois, je voyais, de la colline en face,
 Mes quatre enfants jouer, tableau que rien n'efface!
-          Et j'entendais leurs chants;
+Et j'entendais leurs chants;
 Ému, je contemplais ces aubes de moi-même
 Qui se levaient là-bas dans la douceur suprême
-          Des vallons et des champs!
+Des vallons et des champs!
 
 Ils couraient, s'appelaient dans les fleurs; et les femmes
 Se mêlaient à leurs jeux comme de blanches âmes;
-          Et tu riais, Armand!
+Et tu riais, Armand!
 Et, dans l'hymen obscur qui sans fin se consomme,
 La nature sentait que ce qui sort de l'homme
-          Est divin et charmant!
+Est divin et charmant!
 
 Où sont-ils? Mère, frère, à son tour chacun sombre.
 Je saigne et vous saignez. Mêmes douleurs! même ombre!
-          Ô jours trop tôt décrus!
+Ô jours trop tôt décrus!
 Ils vont se marier; faites venir un prêtre;
 Qu'il revienne! ils sont morts. Et, le temps d'apparaître,
-          Les voilà disparus!
+Les voilà disparus!
 
 Nous vivons tous penchés sur un océan triste.
 L'onde est sombre. Qui donc survit? qui donc existe?
-          Ce bruit sourd, c'est le glas.
+Ce bruit sourd, c'est le glas.
 Chaque flot est une âme; et tout fuit. Rien ne brille.
 Un sanglot dit: Mon père! un sanglot dit: Ma fille!
-          Un sanglot dit: Hélas!
+Un sanglot dit: Hélas!
 
 Marine-Terrace, juin 1855.
-
-
-
 
 VI
 
 À VOUS QUI ÊTES LÀ
-
 
 Vous, qui l'avez suivi dans sa blême vallée,
 Au bord de cette mer d'écueils noirs constellée,
@@ -1965,11 +1895,7 @@ Cet habitant du gouffre et de l'ombre sacrée.
 
 Marine-Terrace, janvier 1855.
 
-
-
-
 VII
-
 
 Pour l'erreur, éclairer, c'est apostasier.
 Aujourd'hui ne naît pas impunément d'hier.
@@ -1992,16 +1918,11 @@ Pour être au fond du gouffre appelé renégat!
 
 Marine-Terrace, novembre 1854.
 
-
-
-
 VIII
 
 A JULES J.[2]
 
-[Note 2: _Voir Histoire de la Littérature dramatique_, t. VI, pages 413
-et 414.]
-
+[Note 2: _Voir Histoire de la Littérature dramatique_, t. VI, pages 413 et 414.]
 
 Je dormais en effet, et tu me réveillas.
 Je te criai: «Salut!» et tu me dis: «Hélas!»
@@ -2082,13 +2003,9 @@ Ce doux songeur ravi lisait derrière moi!
 
 Marine-Terrace, décembre 1854.
 
-
-
-
 IX
 
 LE MENDIANT
-
 
 Un pauvre homme passait dans le givre et le vent.
 Je cognai sur ma vitre; il s'arrêta devant
@@ -2119,13 +2036,9 @@ Sa bure où je voyais des constellations.
 
 Décembre 1834.
 
-
-
-
 X
 
 AUX FEUILLANTINES
-
 
 Mes deux frères et moi, nous étions tout enfants.
 Notre mère disait: «Jouez, mais je défends
@@ -2161,13 +2074,9 @@ De sentir dans leur main la douceur de ses plumes.
 
 Marine-Terrace, août 1855.
 
-
-
-
 XI
 
 PONTO
-
 
 Je dis à mon chien noir: «Viens, Ponto, viens-nous-en!»
 Et je vais dans les bois, mis comme un paysan;
@@ -2200,13 +2109,9 @@ Et Ponto me regarde avec son oeil honnête.
 
 Marine-Terrace, mars 1855.
 
-
-
-
 XII
 
 DOLOROSÆ
-
 
 Mère, voilà douze ans que notre fille est morte;
 Et depuis, moi le père et vous la femme forte,
@@ -2239,88 +2144,80 @@ Nos pleurs, et le sourire à toute autre douleur.
 
 Marine-Terrace, août 1855.
 
-
-
-
 XIII
 
 PAROLES SUR LA DUNE
 
-
 Maintenant que mon temps décroît comme un flambeau,
-        Que mes tâches sont terminées;
+Que mes tâches sont terminées;
 Maintenant que voici que je touche au tombeau
-        Par les deuils et par les années,
+Par les deuils et par les années,
 
 Et qu'au fond de ce ciel que mon essor rêva,
-        Je vois fuir, vers l'ombre entraînées,
+Je vois fuir, vers l'ombre entraînées,
 Comme le tourbillon du passé qui s'en va,
-        Tant de belles heures sonnées;
+Tant de belles heures sonnées;
 
 Maintenant que je dis:--Un jour, nous triomphons;
-        Le lendemain, tout est mensonge!--
+Le lendemain, tout est mensonge!--
 Je suis triste, et je marche au bord des flots profonds,
-        Courbé comme celui qui songe.
+Courbé comme celui qui songe.
 
 Je regarde, au-dessus du mont et du vallon,
-        Et des mers sans fin remuées,
+Et des mers sans fin remuées,
 S'envoler sous le bec du vautour aquilon,
-        Toute la toison des nuées;
+Toute la toison des nuées;
 
 J'entends le vent dans l'air, la mer sur le récif,
-        L'homme liant la gerbe mûre;
+L'homme liant la gerbe mûre;
 J'écoute, et je confronte en mon esprit pensif
-        Ce qui parle à ce qui murmure;
+Ce qui parle à ce qui murmure;
 
 Et je reste parfois couché sans me lever
-        Sur l'herbe rare de la dune.
+Sur l'herbe rare de la dune.
 Jusqu'à l'heure où l'on voit apparaître et rêver
-        Les yeux sinistres de la lune.
+Les yeux sinistres de la lune.
 
 Elle monte, elle jette un long rayon dormant
-        À l'espace, au mystère, au gouffre;
+À l'espace, au mystère, au gouffre;
 Et nous nous regardons tous les deux fixement
-        Elle qui brille et moi qui souffre.
+Elle qui brille et moi qui souffre.
 
 Où donc s'en sont allés mes jours évanouis?
-        Est-il quelqu'un qui me connaisse?
+Est-il quelqu'un qui me connaisse?
 Ai-je encor quelque chose en mes yeux éblouis,
-        De la clarté de ma jeunesse?
+De la clarté de ma jeunesse?
 
 Tout s'est-il envolé? Je suis seul, je suis las;
-        J'appelle sans qu'on me réponde;
+J'appelle sans qu'on me réponde;
 Ô vents! ô flots! ne suis-je aussi qu'un souffle, hélas!
-        Hélas! ne suis-je aussi qu'une onde?
+Hélas! ne suis-je aussi qu'une onde?
 
 Ne verrai-je plus rien de tout ce que j'aimais?
-        Au dedans de moi le soir tombe.
+Au dedans de moi le soir tombe.
 Ô terre, dont la brume efface les sommets,
-        Suis-je le spectre, et toi la tombe?
+Suis-je le spectre, et toi la tombe?
 
 Ai-je donc vidé tout, vie, amour, joie, espoir?
-        J'attends, je demande, j'implore;
+J'attends, je demande, j'implore;
 Je penche tour à tour mes urnes pour avoir
-        De chacune une goutte encore!
+De chacune une goutte encore!
 
 Comme le souvenir est voisin du remord!
-        Comme à pleurer tout nous ramène!
+Comme à pleurer tout nous ramène!
 Et que je te sens froide en te touchant, ô mort,
-        Noir verrou de la porte humaine!
+Noir verrou de la porte humaine!
 
 Et je pense, écoutant gémir le vent amer,
-        Et l'onde aux plis infranchissables;
+Et l'onde aux plis infranchissables;
 L'été rit, et l'on voit sur le bord de la mer
-        Fleurir le chardon bleu des sables.
+Fleurir le chardon bleu des sables.
 
 5 août 1854, anniversaire de mon arrivée à Jersey.
-
-
-
 
 XIV
 
 CLAIRE P.
-
 
 Quel âge hier? Vingt ans. Et quel âge aujourd'hui?
 L'éternité. Ce front pendant une heure a lui.
@@ -2399,14 +2296,10 @@ Et que je ne puis pas réveiller mon enfant!--
 
 Juin 1854.
 
-
-
-
 XV
 
 À ALEXANDRE D.
 (RÉPONSE À LA DÉDICACE DE SON DRAME LA CONSCIENCE)
-
 
 Merci du bord des mers à celui qui se tourne
 Vers la rive où le deuil, tranquille et noir, séjourne,
@@ -2436,13 +2329,9 @@ Et, moi, dans l'unité sinistre de la nuit.
 
 Marine-Terrace, décembre 1854.
 
-
-
-
 XVI
 
 LUEUR AU COUCHANT
-
 
 Lorsque j'étais en France, et que le peuple en fête
 Répandait dans Paris sa grande joie honnête,
@@ -2499,13 +2388,9 @@ Et les graves vieillards dire: «Je me souviens.»
 
 Marine Terrace, juillet 1855.
 
-
-
-
 XVII
 
 MUGITUSQUE BOUM
-
 
 Mugissement des boeufs, au temps du doux Virgile,
 Comme aujourd'hui, le soir, quand fuit la nuit agile,
@@ -2549,13 +2434,9 @@ L'homme... Ô nature! abîme! immensité de l'ombre!
 
 Marine-Terrace, juillet 1855.
 
-
-
-
 XVIII
 
 APPARITION
-
 
 Je vis un ange blanc qui passait sur ma tête;
 Son vol éblouissant apaisait la tempête,
@@ -2578,14 +2459,10 @@ Les astres à travers les plumes de ses ailes.
 
 Jersey, septembre 1855.
 
-
-
-
 XIX
 
 AU POËTE
 QUI M'ENVOIE UNE PLUME D'AIGLE
-
 
 Oui, c'est une heure solennelle!
 Mon esprit en ce jour serein
@@ -2608,9 +2485,6 @@ Vous avez erré dans les nues,
 Vous avez plané dans les cieux!
 
 11 décembre.
-
-
-
 
 XX
 
@@ -2700,14 +2574,10 @@ La terre a Cérigo; mais le ciel a Vénus.
 
 Juin 1855.
 
-
-
-
 XXI
 
 A PAUL M.
 AUTEUR DU DRAME PARIS
-
 
 Tu graves au fronton sévère de ton oeuvre
 Un nom proscrit que mord en sifflant la couleuvre;
@@ -2734,11 +2604,7 @@ Je sens de la charpie avec un drapeau faite.
 
 Marine-Terrace, août 1855.
 
-
-
-
 XXII
-
 
 Je payai le pêcheur qui passa son chemin,
 Et je pris cette bête horrible dans ma main;
@@ -2761,14 +2627,10 @@ Que l'homme rend le bien au monstre pour le mal.
 
 Jersey, grève d'Azette, juillet 1855.
 
-
-
-
 XXIII
 
 PASTEURS ET TROUPEAUX
 A MADAME LOUISE C.
-
 
 Le vallon où je vais tous les jours est charmant;
 Serein, abandonné, seul sous le firmament,
@@ -2819,11 +2681,7 @@ La laine des moulons sinistres de la mer.
 
 Jersey, Gronville, avril 1855.
 
-
-
-
 XXIV
-
 
 J'ai cueilli cette fleur pour toi sur la colline.
 Dans l'âpre escarpement qui sur le flot s'incline,
@@ -2856,11 +2714,7 @@ M'entrait dans l'âme avec tous les frissons du soir!
 
 Ile de Serk, août 1855.
 
-
-
-
 XXV
-
 
 O strophe du poëte, autrefois, dans les fleurs,
 Jetant mille baisers à leurs mille couleurs,
@@ -2897,15 +2751,11 @@ Tu rêves dans sa nuit, Proserpine sinistre.
 
 Jersey, novembre 1854.
 
-
-
-
 XXVI
 
 LES MALHEUREUX
 
 A MES ENFANTS
-
 
 Puisque déjà l'épreuve aux luttes vous convie,
 O mes enfants! parlons un peu de cette vie.
@@ -2967,7 +2817,7 @@ Pas grande ambition, et, pourvu que j'atteigne
 Jusqu'à la branche où pend la mûre ou la châtaigne,
 Il est content de moi, je suis content de lui.
 Je suis heureux.»
-                    J'étais jadis, comme aujourd'hui,
+J'étais jadis, comme aujourd'hui,
 Le passant qui regarde en bas, l'homme des songes.
 Mes enfants, à travers les brumes, les mensonges,
 Les lueurs des tombeaux, les spectres des chevets,
@@ -2987,7 +2837,7 @@ Or, il semble, à qui voit tout ce gouffre en rêvant,
 Que les justes, parmi la nuée et le vent,
 Sont un vol frissonnant d'aigles et de colombes.
 
-                          ·
+·
 
 J'ai souvent, à genoux que je suis sur les tombes,
 La grande vision du sort; et par moment
@@ -3070,7 +2920,7 @@ Ce sont eux qui nous font les élus que nous sommes.
 Joie! amour! pierre à pierre, ô Dieu, je vous le dis,
 Mes frères m'ont jeté le seuil du paradis!
 
-                            ·
+·
 
 Elle était là debout, la mère douloureuse.
 L'obscurité farouche, aveugle, sourde, affreuse,
@@ -3096,7 +2946,7 @@ Que dans ce temps lugubre où le genre humain noir,
 Frissonnant du banquet autant que du martyre,
 Entend pleurer Marie et Trimalcion rire!
 
-                         ·
+·
 
 Mais la foule s'écrie:--Oui, sans doute, c'est beau,
 Le martyre, la mort, quand c'est un grand tombeau!
@@ -3187,7 +3037,7 @@ A l'exécution pour la rendre plus vile,
 Grandit le patient au regard de l'esprit.
 O croix! les deux voleurs sont deux rayons du Christ!
 
-                          ·
+·
 
 Ainsi, tous les souffrants m'ont apparu splendides,
 Satisfaits, radieux, doux, souverains, candides,
@@ -3204,7 +3054,7 @@ Toute cette pitié que tu m'as mise au coeur?
 Qu'en dois-je faire? à qui faut-il que je la garde?
 Où sont les malheureux?--et Dieu m'a dit:--Regarde.
 
-                             ·
+·
 
 Et j'ai vu des palais, des fêtes, des festins,
 Des femmes qui mêlaient leurs blancheurs aux satins,
@@ -3250,7 +3100,7 @@ Et ces êtres n'ayant presque plus face d'homme
 M'ont dit: «Nous sommes ceux qui font le mal; et comme
 C'est nous qui le faisons, c'est nous qui le souffrons!»
 
-                          ·
+·
 
 Oh! le nuage vain des pleurs et des affronts
 S'envole, et la douleur passe en criant: Espère!
@@ -3274,7 +3124,7 @@ Est volupté, les feux du bûcher sont délice,
 La souffrance est plaisir, la torture est bonheur;
 Il n'est qu'un malheureux: c'est le méchant, Seigneur.
 
-                           ·
+·
 
 Aux premiers jours du monde, alors que la nuée,
 Surprise, contemplait chaque chose créée,
@@ -3319,20 +3169,13 @@ Le père sur Abel, la mère sur Caïn.
 
 Marine-Terrace, septembre 1855.
 
-
-
-
 LIVRE SIXIÈME
 
 AU BORD DE L'INFINI
 
-
-
-
 I
 
 LE PONT
-
 
 J'avais devant les yeux les ténèbres. L'abîme
 Qui n'a pas de rivage et qui n'a pas de cime,
@@ -3359,190 +3202,182 @@ Vers ce pâle inconnu je levai ma paupière.
 
 Jersey, décembre 1852.
 
-
-
-
 II
 
 IBO
 
-
 Dites, pourquoi, dans l'insondable
-    Au mur d'airain,
+Au mur d'airain,
 Dans l'obscurité formidable
-    Du ciel serein,
+Du ciel serein,
 
 Pourquoi, dans ce grand sanctuaire
-    Sourd et béni,
+Sourd et béni,
 Pourquoi, sous l'immense suaire
-    De l'infini,
+De l'infini,
 
 Enfouir vos lois éternelles
-    Et vos clartés?
+Et vos clartés?
 Vous savez bien que j'ai des ailes,
-    O vérités!
+O vérités!
 
 Pourquoi vous cachez-vous dans l'ombre
-    Qui nous confond?
+Qui nous confond?
 Pourquoi fuyez-vous l'homme sombre
-    Au vol profond?
+Au vol profond?
 
 Que le mal détruise ou bâtisse,
-    Rampe ou soit roi,
+Rampe ou soit roi,
 Tu sais bien que j'irai, Justice,
-    J'irai vers toi!
+J'irai vers toi!
 
 Beauté sainte, Idéal qui germes
-    Chez les souffrants,
+Chez les souffrants,
 Toi par qui les esprits sont fermes
-    Et les coeurs grands,
+Et les coeurs grands,
 
 Vous le savez, vous que j'adore,
-    Amour, Raison,
+Amour, Raison,
 Qui vous levez comme l'aurore
-    Sur l'horizon,
+Sur l'horizon,
 
 Foi, ceinte d'un cercle d'étoiles,
-    Droit, bien de tous,
+Droit, bien de tous,
 J'irai, Liberté qui te voiles,
-    J'irai vers vous!
+J'irai vers vous!
 
 Vous avez beau, sans fin, sans borne
-    Lueurs de Dieu,
+Lueurs de Dieu,
 Habiter la profondeur morne
-    Du gouffre bleu,
+Du gouffre bleu,
 
 Ame à l'abîme habituée
-    Dès le berceau,
+Dès le berceau,
 Je n'ai pas peur de la nuée;
-    Je suis oiseau.
+Je suis oiseau.
 
 Je suis oiseau comme cet être
-    Qu'Amos rêvait,
+Qu'Amos rêvait,
 Que saint Marc voyait apparaître
-    A son chevet,
+A son chevet,
 
 Qui mêlait sur sa tête fière,
-    Dans les rayons,
+Dans les rayons,
 L'aile de l'aigle à la crinière
-    Des grands lions.
+Des grands lions.
 
 J'ai des ailes. J'aspire au faîte;
-    Mon vol est sûr;
+Mon vol est sûr;
 J'ai des ailes pour la tempête
-    Et pour l'azur.
+Et pour l'azur.
 
 Je gravis les marches sans nombre.
-    Je veux savoir;
+Je veux savoir;
 Quand la science serait sombre
-    Comme le soir!
+Comme le soir!
 
 Vous savez bien que l'âme affronte
-    Ce noir degré,
+Ce noir degré,
 Et que, si haut qu'il faut qu'on monte,
-    J'y monterai!
+J'y monterai!
 
 Vous savez bien que l'âme est forte
-    Et ne craint rien
+Et ne craint rien
 Quand le souffle de Dieu l'emporte!
-    Vous savez bien
+Vous savez bien
 
 Que j'irai jusqu'aux bleus pilastres,
-    Et que mon pas,
+Et que mon pas,
 Sur l'échelle qui monte aux astres,
-    Ne tremble pas!
+Ne tremble pas!
 
 L'homme en cette époque agitée,
-    Sombre océan,
+Sombre océan,
 Doit faire comme Prométhée
-    Et comme Adam.
+Et comme Adam.
 
 Il doit ravir au ciel austère
-    L'éternel feu;
+L'éternel feu;
 Conquérir son propre mystère,
-    Et voler Dieu.
+Et voler Dieu.
 
 L'homme a besoin, dans sa chaumière,
-    Des vents battu,
+Des vents battu,
 D'une loi qui soit sa lumière
-    Et sa vertu.
+Et sa vertu.
 
 Toujours ignorance et misère!
-    L'homme en vain fuit,
+L'homme en vain fuit,
 Le sort le tient; toujours la serre!
-    Toujours la nuit!
+Toujours la nuit!
 
 Il faut que le peuple s'arrache
-    Au dur décret,
+Au dur décret,
 Et qu'enfin ce grand martyr sache
-    Le grand secret!
+Le grand secret!
 
 Déjà l'amour, dans l'ère obscure
-    Qui va finir,
+Qui va finir,
 Dessine la vague figure
-    De l'avenir.
+De l'avenir.
 
 Les lois de nos destins sur terre,
-    Dieu les écrit;
+Dieu les écrit;
 Et, si ces lois sont le mystère,
-    Je suis l'esprit.
+Je suis l'esprit.
 
 Je suis celui que rien n'arrête
-    Celui qui va,
+Celui qui va,
 Celui dont l'âme est toujours prête
-    A Jéhovah;
+A Jéhovah;
 
 Je suis le poëte farouche,
-    L'homme devoir,
+L'homme devoir,
 Le souffle des douleurs, la bouche
-    Du clairon noir;
+Du clairon noir;
 
 Le rêveur qui sur ses registres
-    Met les vivants,
+Met les vivants,
 Qui mêle des strophes sinistres
-    Aux quatre vents;
+Aux quatre vents;
 
 Le songeur ailé, l'âpre athlète
-    Au bras nerveux,
+Au bras nerveux,
 Et je traînerais la comète
-    Par les cheveux.
+Par les cheveux.
 
 Donc, les lois de notre problème,
-    Je les aurai;
+Je les aurai;
 J'irai vers elles, penseur blême,
-    Mage effaré!
+Mage effaré!
 
 Pourquoi cacher ces lois profondes?
-    Rien n'est muré.
+Rien n'est muré.
 Dans vos flammes et dans vos ondes
-    Je passerai;
+Je passerai;
 
 J'irai lire la grande bible;
-    J'entrerai nu
+J'entrerai nu
 Jusqu'au tabernacle terrible
-    De l'inconnu,
+De l'inconnu,
 
 Jusqu'au seuil de l'ombre et du vide,
-    Gouffres ouverts
+Gouffres ouverts
 Que garde la meute livide
-    Des noirs éclairs,
+Des noirs éclairs,
 
 Jusqu'aux portes visionnaires
-    Du ciel sacré;
+Du ciel sacré;
 Et, si vous aboyez, tonnerres,
-    Je rugirai.
+Je rugirai.
 
 Au dolmen de Rozel, janvier 1853.
 
-
-
-
 III
-
 
 Un spectre m'attendait dans un grand angle d'ombre,
 Et m'a dit:
-            --Le muet habite dans le sombre.
+--Le muet habite dans le sombre.
 L'infini rêve, avec un visage irrité.
 L'homme parle et dispute avec l'obscurité,
 Et la larme de l'oeil rit du bruit de la bouche.
@@ -3572,11 +3407,7 @@ Ne sens-tu pas souffler le vent mystérieux?
 
 Au dolmen de Rozel, avril 1853.
 
-
-
-
 IV
-
 
 Écoutez. Je suis Jean. J'ai vu des choses sombres.
 J'ai vu l'ombre infinie où se perdent les nombres,
@@ -3601,13 +3432,9 @@ Et Dieu m'a répondu: «Certes, je vais venir!»
 
 Serk, juillet 1853.
 
-
-
-
 V
 
 CROIRE; MAIS PAS EN NOUS
-
 
 Parce qu'on a porté du pain, du linge blanc,
 A quelque humble logis sous les combles tremblant
@@ -3682,9 +3509,6 @@ De ce prodigieux sourire, le soleil!
 
 Marine-Terrace, décembre 1854.
 
-
-
-
 VI
 
 PLEURS DANS LA NUIT
@@ -3693,485 +3517,485 @@ I
 
 Je suis l'être incliné qui jette ce qu'il pense;
 Qui demande à la nuit le secret du silence;
-        Dont la brume emplit l'oeil;
+Dont la brume emplit l'oeil;
 Dans une ombre sans fond mes paroles descendent,
 Et les choses sur qui tombent mes strophes rendent
-        Le son creux du cercueil.
+Le son creux du cercueil.
 
 Mon esprit, qui du doute a senti la piqûre,
 Habite, âpre songeur, la rêverie obscure
-        Aux flots plombés et bleus,
+Aux flots plombés et bleus,
 Lac hideux où l'horreur tord ses bras, pâle nymphe,
 Et qui fait boire une eau morte comme la lymphe
-        Aux rochers scrofuleux.
+Aux rochers scrofuleux.
 
 Le Doute, fils bâtard de l'aïeule Sagesse,
 Crie:--A quoi bon?--devant l'éternelle largesse,
-        Nous fait tout oublier,
+Nous fait tout oublier,
 S'offre à nous, morne abri, dans nos marches sans nombre,
 Nous dit:--Es-tu las? Viens!--et l'homme dort à l'ombre
-        De ce mancenilier.
+De ce mancenilier.
 
 L'effet pleure et sans cesse interroge la cause.
 La création semble attendre quelque chose.
-        L'homme à l'homme est obscur.
+L'homme à l'homme est obscur.
 Où donc commence l'âme? où donc finit la vie?
 Nous voudrions, c'est là notre incurable envie,
-        Voir par-dessus le mur.
+Voir par-dessus le mur.
 
 Nous rampons, oiseaux pris sous le filet de l'être;
 Libres et prisonniers, l'immuable pénètre
-        Toutes nos volontés;
+Toutes nos volontés;
 Captifs sous le réseau des choses nécessaires,
 Nous sentons se lier des fils à nos misères
-        Dans les immensités.
+Dans les immensités.
 
 II
 
 Nous sommes au cachot; la porte est inflexible;
 Mais, dans une main sombre, inconnue, invisible,
-        Qui passe par moment,
+Qui passe par moment,
 A travers l'ombre, espoir des âmes sérieuses,
 On entend le trousseau des clefs mystérieuses
-        Sonner confusément.
+Sonner confusément.
 
 La vision de l'être emplit les yeux de l'homme.
 Un mariage obscur sans cesse se consomme
-        De l'ombre avec le jour;
+De l'ombre avec le jour;
 Ce monde, est-ce un éden tombé dans la géhenne?
 Nous avons dans le coeur des ténèbres de haine
-        Et des clartés d'amour.
+Et des clartés d'amour.
 
 La création n'a qu'une prunelle trouble.
 L'être éternellement montre sa face double,
-        Mal et bien, glace et feu;
+Mal et bien, glace et feu;
 L'homme sent à la fois, âme pure et chair sombre,
 La morsure du ver de terre au fond de l'ombre
-        Et le baiser de Dieu.
+Et le baiser de Dieu.
 
 Mais à de certains jours, l'âme est comme une veuve.
 Nous entendons gémir les vivants dans l'épreuve.
-        Nous doutons, nous tremblons,
+Nous doutons, nous tremblons,
 Pendant que l'aube épand ses lumières sacrées
 Et que mai sur nos seuils mêle les fleurs dorées
-        Avec les enfants blonds.
+Avec les enfants blonds.
 
 Qu'importe la lumière, et l'aurore, et les astres,
 Fleurs des chapiteaux bleus, diamants des pilastres
-        Du profond firmament,
+Du profond firmament,
 Et mai qui nous caresse, et l'enfant qui nous charme,
 Si tout n'est qu'un soupir, si tout n'est qu'une larme,
-        Si tout n'est qu'un moment!
+Si tout n'est qu'un moment!
 
 III
 
 Le sort nous use au jour, triste meule qui tourne.
 L'homme inquiet et vain croit marcher, il séjourne;
-        Il expire en créant.
+Il expire en créant.
 Nous avons la seconde et nous rêvons l'année;
 Et la dimension de notre destinée,
-        C'est poussière et néant.
+C'est poussière et néant.
 
 L'abîme, où les soleils sont les égaux des mouches,
 Nous tient; nous n'entendons que des sanglots farouches
-        Ou des rires moqueurs;
+Ou des rires moqueurs;
 Vers la cible d'en haut qui dans l'azur s'élève,
 Nous lançons nos projets, nos voeux, l'espoir, le rêve,
-        Ces flèches de nos coeurs.
+Ces flèches de nos coeurs.
 
 Nous voulons durer, vivre, être éternels. O cendre!
 Où donc est la fourmi qu'on appelle Alexandre?
-        Où donc le ver César?
+Où donc le ver César?
 En tombant sur nos fronts, la minute nous tue.
 Nous passons, noir essaim, foule de deuil vêtue,
-        Comme le bruit d'un char.
+Comme le bruit d'un char.
 
 Nous montons à l'assaut du temps comme une armée.
 Sur nos groupes confus que voile la fumée
-        Des jours évanouis,
+Des jours évanouis,
 L'énorme éternité luit, splendide et stagnante;
 Le cadran, bouclier de l'heure rayonnante.
-        Nous terrasse éblouis!
+Nous terrasse éblouis!
 
 IV
 
 A l'instant où l'on dit: Vivons! tout se déchire.
 Les pleurs subitement descendent sur le rire.
-        Tête nue! à genoux!
+Tête nue! à genoux!
 Tes fils sont morts, mon père est mort, leur mère est morte.
 O deuil! qui passe là? C'est un cercueil qu'on porte.
-        A qui le portez-vous?
+A qui le portez-vous?
 
 Ils le portent à l'ombre, au silence, à la terre;
 Ils le portent au calme obscur, à l'aube austère,
-        A la brume sans bords,
+A la brume sans bords,
 Au mystère qui tord ses anneaux sous des voiles,
 Au serpent inconnu qui lèche les étoiles
-        Et qui baise les morts!
+Et qui baise les morts!
 
 V
 
 Ils le portent aux vers, au néant, à Peut-Être!
 Car la plupart d'entre eux n'ont point vu le jour naître;
-        Sceptiques et bornés,
+Sceptiques et bornés,
 La négation morne et la matière hostile,
 Flambeaux d'aveuglement, troublent l'âme inutile
-        De ces infortunés.
+De ces infortunés.
 
 Pour eux le ciel ment, l'homme est un songe et croit vivre;
 Ils ont beau feuilleter page à page le livre,
-        Ils ne comprennent pas;
+Ils ne comprennent pas;
 Ils vivent en hochant la tête, et, dans le vide,
 L'écheveau ténébreux que le doute dévide
-        Se mêle sous leurs pas.
+Se mêle sous leurs pas.
 
 Pour eux l'âme naufrage avec le corps qui sombre.
 Leur rêve a les yeux creux et regarde de l'ombre;
-        Rien est le mot du sort;
+Rien est le mot du sort;
 Et chacun d'eux, riant de la voûte étoilée,
 Porte en son coeur, au lieu de l'espérance ailée,
-        Une tête de mort.
+Une tête de mort.
 
 Sourds à l'hymne des bois, au sombre cri de l'orgue,
 Chacun d'eux est un champ plein de cendre, une morgue
-        Où pendent des lambeaux,
+Où pendent des lambeaux,
 Un cimetière où l'oeil des frémissants poëtes
 Voit planer l'ironie et toutes ses chouettes,
-        L'ombre et tous ses corbeaux.
+L'ombre et tous ses corbeaux.
 
 Quand l'astre et le roseau leur disent: Il faut croire;
 Ils disent au jonc vert, à l'astre en sa nuit noire:
-        Vous êtes insensés!
+Vous êtes insensés!
 Quand l'arbre leur murmure à l'oreille: Il existe;
 Ces fous répondent: Non! et, si le chêne insiste,
-        Ils lui disent: Assez!
+Ils lui disent: Assez!
 
 Quelle nuit! le semeur nié par la semence!
 L'univers n'est pour eux qu'une vaste démence,
-        Sans but et sans milieu;
+Sans but et sans milieu;
 Leur âme, en agitant l'immensité profonde,
 N'y sent même pas l'être, et dans le grelot monde
-        N'entend pas sonner Dieu!
+N'entend pas sonner Dieu!
 
 VI
 
 Le corbillard franchit le seuil du cimetière.
 Le gai matin, qui rit à la nature entière,
-        Resplendit sur ce deuil;
+Resplendit sur ce deuil;
 Tout être a son mystère où l'on sent l'âme éclore,
 Et l'offre à l'infini; l'astre apporte l'aurore,
-        Et l'homme le cercueil.
+Et l'homme le cercueil.
 
 Le dedans de la fosse apparaît, triste crèche.
 Des pierres par endroits percent la terre fraîche;
-        Et l'on entend le glas;
+Et l'on entend le glas;
 Elles semblent s'ouvrir ainsi que des paupières,
 Et le papillon blanc dit: «Qu'ont donc fait ces pierres?»
-        Et la fleur dit: «Hélas!»
+Et la fleur dit: «Hélas!»
 
 VII
 
 Est-ce que par hasard ces pierres sont punies,
 Dieu vivant, pour subir de telles agonies?
-        Ah! ce que nous souffrons
+Ah! ce que nous souffrons
 N'est rien...--Plus bas que l'arbre en proie aux froides bises,
 Sous cette forme horrible, est-ce que les Cambyses,
-        Est-ce que les Nérons,
+Est-ce que les Nérons,
 
 Après avoir tenu les peuples dans leur serre,
 Et crucifié l'homme au noir gibet misère,
-        Mis le monde en lambeaux,
+Mis le monde en lambeaux,
 Souillé l'âme, et changé, sous le vent des désastres,
 L'univers en charnier, et fait monter aux astres
-        La vapeur des tombeaux,
+La vapeur des tombeaux,
 
 Après avoir passé joyeux dans la victoire,
 Dans l'orgueil, et partout imprimé sur l'histoire
-        Leurs ongles furieux,
+Leurs ongles furieux,
 Et, monstres qu'entrevoit l'homme en ses léthargies.
 Après avoir sur terre été des effigies
-        Du mal mystérieux,
+Du mal mystérieux,
 
 Après avoir peuplé les prisons élargies,
 Et versé tant de meurtre aux vastes mers rougies,
-        Tant de morts, glaive au flanc,
+Tant de morts, glaive au flanc,
 Tant d'ombre, et de carnage, et d'horreurs inconnues,
 Que le soleil, le soir, hésitait dans les nues
-        Devant ce bain sanglant!
+Devant ce bain sanglant!
 
 Après avoir mordu le troupeau que Dieu mène,
 Et tourné tour à tour de la torture humaine
-        L'atroce cabestan,
+L'atroce cabestan,
 Et régné sous la pourpre et sous le laticlave,
 Et plié six mille ans Adam, le vieil esclave,
-        Sous le vieux roi Satan,
+Sous le vieux roi Satan,
 
 Est-ce que le chasseur Nemrod, Sforce le pâtre,
 Est-ce que Messaline, est-ce que Cléopâtre,
-        Caligula, Macrin,
+Caligula, Macrin,
 Et les Achabs, par qui renaissaient les Sodomes,
 Et Phalaris, qui fit du hurlement des hommes
-        La clameur de l'airain,
+La clameur de l'airain,
 
 Est-ce que Charles Neuf, Constantin, Louis Onze,
 Vitellius, la fange, et Busiris, le bronze,
-        Les Cyrus dévorants,
+Les Cyrus dévorants,
 Les Égystes montrés du doigt par les Électres,
 Seraient dans cette nuit, d'hommes devenus spectres,
-        Et pierres de tyrans?
+Et pierres de tyrans?
 
 Est-ce que ces cailloux, tout pénétrés de crimes,
 Dans l'horreur étouffés, scellés dans les abîmes,
-        Enviant l'ossement,
+Enviant l'ossement,
 Sans air, sans mouvement, sans jour, sans yeux, sans bouche,
 Entre l'herbe sinistre et le cercueil farouche,
-        Vivraient affreusement?
+Vivraient affreusement?
 
 Est-ce que ce seraient des âmes condamnées,
 Des maudits qui, pendant des millions d'années,
-        Seuls avec le remords,
+Seuls avec le remords,
 Au lieu de voir, des yeux de l'astre solitaire,
 Sortir les rayons d'or, verraient les vers de terre
-        Sortir des yeux des morts?
+Sortir des yeux des morts?
 
 Homme et roche, exister, noir dans l'ombre vivante!
 Songer, pétrifié dans sa propre épouvante!
-        Rêver l'éternité!
+Rêver l'éternité!
 Dévorer ses fureurs, confusément rugies!
 Être pris, ouragan de crimes et d'orgies,
-        Dans l'immobilité!
+Dans l'immobilité!
 
 Punition! problème obscur! questions sombres!
 Quoi! ce caillou dirait:--J'ai mis Thèbe en décombres!
-        J'ai vu Suze à genoux!
+J'ai vu Suze à genoux!
 J'étais Bélus à Tyr! j'étais Sylla dans Rome!--
 Noire captivité des vieux démons de l'homme!
-        O pierres, qu'êtes-vous?
+O pierres, qu'êtes-vous?
 
 Qu'a fait ce bloc, béant dans la fosse insalubre?
 Glacé du froid profond de la terre lugubre,
-        Informe et châtié,
+Informe et châtié,
 Aveugle, même aux feux que la nuit réverbère,
 Il pense et se souvient...--Quoi! ce n'est que Tibère!
-        Seigneur, ayez pitié!
+Seigneur, ayez pitié!
 
 Ce dur silex noyé dans la terre, âpre, fruste,
 Couvert d'ombre, pendant que le ciel s'ouvre au juste
-        Qui s'y réfugia,
+Qui s'y réfugia,
 Jaloux du chien qui jappe et de l'âne qui passe,
 Songe et dit: Je suis là!--Dieu vivant, faites grâce!
-        Ce n'est que Borgia!
+Ce n'est que Borgia!
 
 O Dieu bon, penchez-vous sur tous ces misérables!
 Sauvez ces submergés, aimez ces exécrables!
-        Ouvrez les soupiraux.
+Ouvrez les soupiraux.
 Au nom des innocents, Dieu, pardonnez aux crimes.
 Père, fermez l'enfer. Juge, au nom des victimes,
-        Grâce pour les bourreaux!
+Grâce pour les bourreaux!
 
 De toutes parts s'élève un cri: Miséricorde!
 Les peuples nus, liés, fouettés à coups de corde,
-        Lugubres travailleurs,
+Lugubres travailleurs,
 Voyant leur maître en proie aux châtiments sublimes,
 Ont pitié du despote, et, saignant de ses crimes,
-        Pleurent de ses douleurs;
+Pleurent de ses douleurs;
 
 Les pâles nations regardent dans le gouffre,
 Et ces grands suppliants, pour le tyran qui souffre,
-        T'implorent, Dieu jaloux;
+T'implorent, Dieu jaloux;
 L'esclave mis en croix, l'opprimé sur la claie,
 Plaint le satrape au fond de l'abîme, et la plaie
-        Dit: Grâce pour les clous!
+Dit: Grâce pour les clous!
 
 Dieu serein, regardez d'un regard salutaire
 Ces reclus ténébreux qu'emprisonne la terre
-        Pleine d'obscurs verrous,
+Pleine d'obscurs verrous,
 Ces forçats dont le bagne est le dedans des pierres,
 Et levez, à la voix des justes en prières,
-        Ces effrayants écrous.
+Ces effrayants écrous.
 
 Père, prenez pitié du monstre et de la roche.
 De tous les condamnés que le pardon s'approche!
-        Jadis, roi des combats,
+Jadis, roi des combats,
 Ces bandits sur la terre ont fait une tempête;
 Étant montés plus haut dans l'horreur que la bête,
-        Ils sont tombés plus bas.
+Ils sont tombés plus bas.
 
 Grâce pour eux! démence, espoir, pardon, refuge,
 Au jonc qui fut un prince, au ver qui fut un juge!
-        Le méchant, c'est le fou.
+Le méchant, c'est le fou.
 Dieu, rouvrez au maudit! Dieu, relevez l'infâme!
 Rendez à tous l'azur. Donnez au tigre une âme,
-        Des ailes au caillou!
+Des ailes au caillou!
 
 Mystère! obsession de tout esprit qui pense!
 Échelle de la peine et de la récompense!
-        Nuit qui monte en clarté!
+Nuit qui monte en clarté!
 Sourire épanoui sur la torture amère!
 Vision du sépulcre! êtes-vous la chimère,
-        Ou la réalité?
+Ou la réalité?
 
 VIII
 
 La fosse, plaie au flanc de la terre, est ouverte,
 Et, béante, elle fait frissonner l'herbe verte
-        Et le buisson jauni;
+Et le buisson jauni;
 Elle est là, froide, calme, étroite, inanimée,
 Et l'âme en voit sortir, ainsi qu'une fumée,
-        L'ombre de l'infini.
+L'ombre de l'infini.
 
 Et les oiseaux de l'air, qui, planant sur les cimes,
 Volant sous tous les cieux, comparent les abîmes
-        Dans les courses qu'ils font,
+Dans les courses qu'ils font,
 Songent au noir Vésuve, à l'Océan superbe,
 Et disent, en voyant cette fosse dans l'herbe:
-        Voici le plus profond!
+Voici le plus profond!
 
 IX
 
 L'âme est partie, on rend le corps à la nature.
 La vie a disparu sous cette créature;
-        Mort, où sont tes appuis?
+Mort, où sont tes appuis?
 Le voilà hors du temps, de l'espace et du nombre.
 On le descend avec une corde dans l'ombre
-        Comme un seau dans un puits.
+Comme un seau dans un puits.
 
 Que voulez-vous puiser dans ce puits formidable?
 Et pourquoi jetez-vous la sonde à l'insondable?
-        Qu'y voulez-vous puiser?
+Qu'y voulez-vous puiser?
 Est-ce l'adieu lointain et doux de ceux qu'on aime?
 Est-ce un regard? hélas! est-ce un soupir suprême?
-        Est-ce un dernier baiser?
+Est-ce un dernier baiser?
 
 Qu'y voulez-vous puiser, vivants, essaim frivole?
 Est-ce un frémissement du vide où tout s'envole,
-        Un bruit, une clarté,
+Un bruit, une clarté,
 Une lettre du mot que Dieu seul peut écrire?
 Est-ce, pour le mêler à vos éclats de rire,
-        Un peu d'éternité?
+Un peu d'éternité?
 
 Dans ce gouffre où la larve entr'ouvre son oeil terne,
 Dans cette épouvantable et livide citerne,
-        Abîme de douleurs,
+Abîme de douleurs,
 Dans ce cratère obscur des muettes demeures,
 Que voulez-vous puiser, ô passants de peu d'heures,
-        Hommes de peu de pleurs?
+Hommes de peu de pleurs?
 
 Est-ce le secret sombre? est-ce la froide goutte
 Qui, larme du néant, suinte de l'âpre voûte
-        Sans aube et sans flambeau?
+Sans aube et sans flambeau?
 Est-ce quelque lueur effarée et hagarde?
 Est-ce le cri jeté par tout ce qui regarde
-        Derrière le tombeau?
+Derrière le tombeau?
 
 Vous ne puiserez rien. Les morts tombent. La fosse
 Les voit descendre, avec leur âme juste ou fausse,
-        Leur nom, leurs pas, leur bruit.
+Leur nom, leurs pas, leur bruit.
 Un jour, quand souffleront les célestes haleines,
 Dieu seul remontera toutes ces urnes pleines
-        De l'éternelle nuit.
+De l'éternelle nuit.
 
 X
 
 Et la terre, agitant la ronce à sa surface,
 Dit:--L'homme est mort; c'est bien; que veut-on que j'en fasse?
-        Pourquoi me le rend-on?
+Pourquoi me le rend-on?
 Terre! fais-en des fleurs! des lys que l'aube arrose!
 De cette bouche aux dents béantes, fais la rose
-        Entr'ouvrant son bouton!
+Entr'ouvrant son bouton!
 
 Fais ruisseler ce sang dans tes sources d'eaux vives,
 Et fais-le boire aux boeufs mugissants, tes convives;
-        Prends ces chairs en haillons;
+Prends ces chairs en haillons;
 Fais de ces seins bleuis sortir des violettes,
 Et couvre de ces yeux que t'offrent les squelettes
-        L'aile des papillons.
+L'aile des papillons.
 
 Fais avec tous ces morts une joyeuse vie.
 Fais-en le fier torrent qui gronde et qui dévie,
-        La mousse aux frais tapis!
+La mousse aux frais tapis!
 Fais-en des rocs, des joncs, des fruits, des vignes mûres,
 Des brises, des parfums, des bois pleins de murmures,
-        Des sillons pleins d'épis!
+Des sillons pleins d'épis!
 
 Fais-en des buissons verts, fais-en de grandes herbes!
 Et qu'en ton sein profond d'où se lèvent les gerbes,
-        A travers leur sommeil,
+A travers leur sommeil,
 Les effroyables morts sans souffle et sans paroles
 Se sentent frissonner dans toutes ces corolles
-        Qui tremblent au soleil!
+Qui tremblent au soleil!
 
 XI
 
 La terre, sur la bière où le mort pâle écoute,
 Tombe, et le nid gazouille, et, là-bas, sur la route
-        Siffle le paysan;
+Siffle le paysan;
 Et ces fils, ces amis que le regret amène,
 N'attendent même pas que la fosse soit pleine
-        Pour dire: Allons-nous-en!
+Pour dire: Allons-nous-en!
 
 Le fossoyeur, payé par ces douleurs hâtées,
 Jette sur le cercueil la terre à pelletées.
-        Toi qui, dans ton linceul,
+Toi qui, dans ton linceul,
 Rêvais le deuil sans fin, cette blanche colombe,
 Avec cet homme allant et venant sur ta tombe,
-        O mort, te voilà seul!
+O mort, te voilà seul!
 
 Commencement de l'âpre et morne solitude!
 Tu ne changeras plus de lit ni d'attitude;
-        L'heure aux pas solennels
+L'heure aux pas solennels
 Ne sonne plus pour toi; l'ombre te fait terrible;
 L'immobile suaire a sur ta forme horrible
-        Mis ses plis éternels.
+Mis ses plis éternels.
 
 Et puis le fossoyeur s'en va boire la fosse.
 Il vient de voir des dents que la terre déchausse,
-        Il rit, il mange, il mord;
+Il rit, il mange, il mord;
 Et prend, en murmurant des chansons hébétées,
 Un verre dans ses mains à chaque instant heurtées
-        Aux choses de la mort.
+Aux choses de la mort.
 
 Le soir vient; l'horizon s'emplit d'inquiétude;
 L'herbe tremble et bruit comme une multitude;
-        Le fleuve blanc reluit;
+Le fleuve blanc reluit;
 Le paysage obscur prend les veines des marbres;
 Ces hydres que, le jour, on appelle des arbres,
-        Se tordent dans la nuit.
+Se tordent dans la nuit.
 
 Le mort est seul. Il sent la nuit qui le dévore.
 Quand naît le doux matin, tout l'azur de l'aurore,
-        Tous ses rayons si beaux,
+Tous ses rayons si beaux,
 Tout l'amour des oiseaux et leurs chansons sans nombre,
 Vont aux berceaux dorés; et, la nuit, toute l'ombre
-        Aboutit aux tombeaux.
+Aboutit aux tombeaux.
 
 Il entend des soupirs dans les fosses voisines,
 Il sent la chevelure affreuse des racines
-        Entrer dans son cercueil;
+Entrer dans son cercueil;
 Il est l'être vaincu dont s'empare la chose;
 Il sent un doigt obscur, sous sa paupière close,
-        Lui retirer son oeil.
+Lui retirer son oeil.
 
 Il a froid; car le soir, qui mêle à son haleine
 Les ténèbres, l'horreur, le spectre et le phalène,
-        Glace ces durs grabats;
+Glace ces durs grabats;
 Le cadavre, lié de bandelettes blanches,
 Grelotte, et dans sa bière entend les quatre planches
-        Qui lui parlent tout bas.
+Qui lui parlent tout bas.
 
 L'une dit:--Je fermais ton coffre-fort.--Et l'autre
 Dit:--J'ai servi de porte au toit qui fut le nôtre.--
-        L'autre dit:--Aux beaux jours,
+L'autre dit:--Aux beaux jours,
 La table où rit l'ivresse et que le vin encombre,
 C'était moi.--L'autre dit:--J'étais le chevet sombre
-        Du lit de tes amours.
+Du lit de tes amours.
 
 Allez, vivants! riez, chantez; le jour flamboie.
 Laissez derrière vous, derrière votre joie
-        Sans nuage et sans pli,
+Sans nuage et sans pli,
 Derrière la fanfare et le bal qui s'élance,
 Tous ces morts qu'enfouit dans la fosse silence
-        Le fossoyeur oubli!
+Le fossoyeur oubli!
 
 XII
 
@@ -4179,366 +4003,358 @@ Tous y viendront.
 
 XIII
 
-                  Assez! et levez-vous de table.
+Assez! et levez-vous de table.
 Chacun prend à son tour la route redoutable;
-        Chacun sort en tremblant;
+Chacun sort en tremblant;
 Chantez, riez; soyez heureux, soyez célèbres;
 Chacun de vous sera bientôt dans les ténèbres
-        Le spectre au regard blanc.
+Le spectre au regard blanc.
 
 La foule vous admire et l'azur vous éclaire;
 Vous êtes riche, grand, glorieux, populaire,
-        Puissant, fier, encensé;
+Puissant, fier, encensé;
 Vos licteurs devant vous, graves, portent la hache;
 Et vous vous en irez sans que personne sache
-        Où vous avez passé.
+Où vous avez passé.
 
 Jeunes filles, hélas! qui donc croit à l'aurore?
 Votre lèvre pâlit pendant qu'on danse encore
-        Dans le bal enchanté;
+Dans le bal enchanté;
 Dans les lustres blêmis on voit grandir le cierge;
 La mort met sur vos fronts ce grand voile de vierge
-        Qu'on nomme éternité.
+Qu'on nomme éternité.
 
 Le conquérant, debout dans une aube enflammée,
 Penche, et voit s'en aller son épée en fumée;
-        L'amante avec l'amant
+L'amante avec l'amant
 Passe; le berceau prend une voix sépulcrale;
 L'enfant rose devient larve horrible, et le râle
-        Sort du vagissement.
+Sort du vagissement.
 
 Ce qu'ils disaient hier, le savent-ils eux-mêmes?
 Des chimères, des voeux, des cris, de vains problèmes!
-        O néant inouï!
+O néant inouï!
 Rien ne reste; ils ont tout oublié dans la fuite
 Des choses que Dieu pousse et qui courent si vite
-        Que l'homme est ébloui!
+Que l'homme est ébloui!
 
 O promesses! espoirs! cherchez-les dans l'espace.
 La bouche qui promet est un oiseau qui passe.
-        Fou qui s'y confierait!
+Fou qui s'y confierait!
 Les promesses s'en vont où va le vent des plaines,
 Où vont les flots, où vont les obscures haleines
-        Du soir dans la forêt!
+Du soir dans la forêt!
 
 Songe à la profondeur du néant où nous sommes.
 Quand tu seras couché sous la terre où les hommes
-        S'enfoncent pas à pas,
+S'enfoncent pas à pas,
 Tes enfants, épuisant les jours que Dieu leur compte,
 Seront dans la lumière ou seront dans la honte;
-        Tu ne le sauras pas!
+Tu ne le sauras pas!
 
 Ce que vous rêvez tombe avec ce que vous faites.
 Voyez ces grands palais; voyez ces chars de fêtes
-        Aux tournoyants essieux;
+Aux tournoyants essieux;
 Voyez ces longs fusils qui suivent le rivage;
 Voyez ces chevaux, noirs comme un héron sauvage
-        Qui vole sous les cieux,
+Qui vole sous les cieux,
 
 Tout cela passera comme une voix chantante.
 Pyramide, à tes pieds tu regardes la tente,
-        Sous l'éclatant zénith;
+Sous l'éclatant zénith;
 Tu l'entends frissonner au vent comme une voile,
 Chéops, et tu te sens, en la voyant de toile,
-        Fière d'être en granit;
+Fière d'être en granit;
 
 Et toi, tente, tu dis: Gloire à la pyramide!
 Mais, un jour, hennissant comme un cheval numide,
-        L'ouragan libyen
+L'ouragan libyen
 Soufflera sur ce sable où sont les tentes frêles,
 Et Chéops roulera pêle-mêle avec elles
-        En s'écriant: Eh bien!
+En s'écriant: Eh bien!
 
 Tu périras, malgré ton enceinte murée,
 Et tu ne seras plus, ville, ô ville sacrée,
-        Qu'un triste amas fumant,
+Qu'un triste amas fumant,
 Et ceux qui t'ont servie et ceux qui t'ont aimée
 Frapperont leur poitrine en voyant la fumée
-        De ton embrasement.
+De ton embrasement.
 
 Ils diront:--O douleur! ô deuil! guerre civile!
 Quelle ville a jamais égalé cette ville?
-        Ses tours montaient dans l'air;
+Ses tours montaient dans l'air;
 Elle riait aux chants de ses prostituées;
 Elle faisait courir ainsi que des nuées
-        Ses vaisseaux sur la mer.
+Ses vaisseaux sur la mer.
 
 Ville! où sont tes docteurs qui t'enseignaient à lire?
 Tes dompteurs de lions qui jouaient de la lyre,
-        Tes lutteurs jamais las?
+Tes lutteurs jamais las?
 Ville! est-ce qu'un voleur, la nuit, t'a dérobée?
 Où donc est Babylone? Hélas! elle est tombée!
-        Elle est tombée, hélas!
+Elle est tombée, hélas!
 
 On n'entend plus chez toi le bruit que fait la meule.
 Pas un marteau n'y frappe un clou. Te voilà seule.
-        Ville, où sont tes bouffons?
+Ville, où sont tes bouffons?
 Nul passant désormais ne montera tes rampes;
 Et l'on ne verra plus la lumière des lampes
-        Luire sous tes plafonds.
+Luire sous tes plafonds.
 
 Brillez pour disparaître et montez pour descendre.
 Le grain de sable dit dans l'ombre au grain de cendre:
-        Il faut tout engloutir.
+Il faut tout engloutir.
 Où donc est Thèbes? dit Babylone pensive.
 Thèbes demande: Où donc est Ninive? et Ninive
-        S'écrie: Où donc est Tyr?
+S'écrie: Où donc est Tyr?
 
 En laissant fuir les mots de sa langue prolixe,
 L'homme s'agite et va, suivi par un oeil fixe;
-        Dieu n'ignore aucun toit;
+Dieu n'ignore aucun toit;
 Tous les jours d'ici-bas ont des aubes funèbres;
 Malheur à ceux qui font le mal dans les ténèbres;
-        En disant: Qui nous voit?
+En disant: Qui nous voit?
 
 Tous tombent; l'un au bout d'une course insensée,
 L'autre à son premier pas; l'homme sur sa pensée,
-        La mère sur son nid;
+La mère sur son nid;
 Et le porteur de sceptre et le joueur de flûte
 S'en vont; et rien ne dure; et le père qui lutte
-        Suit l'aïeul qui bénit.
+Suit l'aïeul qui bénit.
 
 Les races vont au but qu'ici-bas tout révèle.
 Quand l'ancienne commence à pâlir, la nouvelle
-        A déjà le même air;
+A déjà le même air;
 Dans l'éternité, gouffre où se vide la tombe,
 L'homme coule sans fin, sombre fleuve qui tombe
-        Dans une sombre mer.
+Dans une sombre mer.
 
 Tout escalier, que l'ombre ou la splendeur le couvre,
 Descend au tombeau calme, et toute porte s'ouvre
-        Sur le dernier moment;
+Sur le dernier moment;
 Votre sépulcre emplit la maison où vous êtes;
 Et tout plafond, croisant ses poutres sur nos têtes,
-        Est fait d'écroulement.
+Est fait d'écroulement.
 
 Veillez! veillez! Songez à ceux que vous perdîtes;
 Parlez moins haut, prenez garde à ce que vous dites,
-        Contemplez à genoux;
+Contemplez à genoux;
 L'aigle trépas du bout de l'aile nous effleure;
 Et toute notre vie, en fuite heure par heure,
-        S'en va derrière nous.
+S'en va derrière nous.
 
 O coups soudains! départs vertigineux! mystère!
 Combien qui ne croyaient parler que pour la terre,
-        Front haut, coeur fier, bras fort,
+Front haut, coeur fier, bras fort,
 Tout à coup, comme un mur subitement s'écroule,
 Au milieu d'une phrase adressée à la foule,
-        Sont entrés dans la mort,
+Sont entrés dans la mort,
 
 Et, sous l'immensité qui n'est qu'un oeil sublime,
 Ont pâli, stupéfaits de voir, dans cet abîme
-        D'astres et de ciel bleu,
+D'astres et de ciel bleu,
 Où le masqué se montre, où l'inconnu se nomme,
 Que le mot qu'ils avaient commencé devant l'homme
-        S'achevait devant Dieu!
+S'achevait devant Dieu!
 
 Un spectre au seuil de tout tient le doigt sur sa bouche.
 Les morts partent. La nuit de sa verge les touche.
-        Ils vont, l'antre est profond,
+Ils vont, l'antre est profond,
 Nus, et se dissipant, et l'on ne voit rien luire.
 Où donc sont-ils allés? On n'a rien à vous dire.
-        Ceux qui s'en vont, s'en vont.
+Ceux qui s'en vont, s'en vont.
 
 Sur quoi donc marchent-ils? sur l'énigme, sur l'ombre,
 Sur l'être. Ils font un pas: comme la nef qui sombre,
-        Leur blancheur disparaît;
+Leur blancheur disparaît;
 Et l'on n'entend plus rien dans l'ombre inaccessible,
 Que le bruit sourd que fait dans le gouffre invisible
-        L'invisible forêt.
+L'invisible forêt.
 
 L'infini, route noire et de brume remplie,
 Et qui joint l'âme à Dieu, monte, fuit, multiplie
-        Ses cintres tortueux,
+Ses cintres tortueux,
 Et s'efface...--et l'horreur effare nos pupilles
 Quand nous entrevoyons les arches et les piles
-        De ce pont monstrueux.
+De ce pont monstrueux.
 
 O sort! obscurité! nuée! on rêve, on souffre,
 Les êtres, dispersés à tous les vents du gouffre,
-        Ne savent ce qu'ils font.
+Ne savent ce qu'ils font.
 Les vivants sont hagards. Les morts sont dans leurs couches.
 Pendant que nous songeons, des pleurs, gouttes farouches,
-        Tombent du noir plafond.
+Tombent du noir plafond.
 
 XIV
 
 On brave l'immuable; et l'un se réfugie
 Dans l'assoupissement, et l'autre dans l'orgie.
-        Cet autre va criant:
+Cet autre va criant:
 --A bas vertu, devoir et foi! l'homme est un ventre!--
 Dans ce lugubre esprit, comme un tigre en son antre,
-        Habite le néant.
+Habite le néant.
 
 Écoutez-le:--Jouir est tout. L'heure est rapide.
 Le sacrifice est fou, le martyre est stupide;
-        Vivre est l'essentiel.
+Vivre est l'essentiel.
 L'immensité ricane et la tombe grimace.
 La vie est un caillou que le sage ramasse
-        Pour lapider le ciel.--
+Pour lapider le ciel.--
 
 Il souffle, forçat noir, sa vermine sur l'ange.
 Il est content, il est hideux; il boit, il mange;
-        Il rit, la lèvre en feu,
+Il rit, la lèvre en feu,
 Tous les rires que peut inventer la démence;
 Il dit tout ce que peut dire en sa haine immense
-        Le ver de terre à Dieu.
+Le ver de terre à Dieu.
 
 Il dit: Non! à celui sous qui tremble le pôle.
 Soudain l'ange muet met la main sur l'épaule
-        Du railleur effronté;
+Du railleur effronté;
 La mort derrière lui surgit pendant qu'il chante;
 Dieu remplit tout à coup cette bouche crachante
-        Avec l'éternité.
+Avec l'éternité.
 
 XV
 
 Qu'est-ce que tu feras de tant d'herbes fauchées,
 O vent? que feras-tu des pailles desséchées
-        Et de l'arbre abattu?
+Et de l'arbre abattu?
 Que feras-tu de ceux qui s'en vont avant l'heure,
 Et de celui qui rit et de celui qui pleure,
-        O vent, qu'en feras-tu?
+O vent, qu'en feras-tu?
 
 Que feras-tu des coeurs! que feras-tu des âmes?
 Nous aimâmes, hélas! nous crûmes, nous pensâmes:
-        Un moment nous brillons;
+Un moment nous brillons;
 Puis, sur les panthéons ou sur les ossuaires,
 Nous frissonnons, ceux-ci drapeaux, ceux-là suaires,
-        Tous, lambeaux et haillons!
+Tous, lambeaux et haillons!
 
 Et ton souffle nous tient, nous arrache et nous ronge!
 Et nous étions la vie, et nous sommes le songe!
-        Et voilà que tout fuit!
+Et voilà que tout fuit!
 Et nous ne savons plus qui nous pousse et nous mène,
 Et nous questionnons en vain notre âme pleine
-        De tonnerre et de nuit!
+De tonnerre et de nuit!
 
 O vent, que feras-tu de ces tourbillons d'êtres,
 Hommes, femmes, vieillards, enfants, esclaves, maîtres,
-        Souffrant, priant, aimant,
+Souffrant, priant, aimant,
 Doutant, peut-être cendre et peut-être semence,
 Qui roulent, frémissants et pâles, vers l'immense
-        Évanouissement!
+Évanouissement!
 
 XVI
 
 L'arbre Éternité vit sans faîte et sans racines.
 Ses branches sont partout, proches du ver, voisines
-        Du grand astre doré;
+Du grand astre doré;
 L'espace voit sans fin croître la branche Nombre,
 Et la branche Destin, végétation sombre,
-        Emplit l'homme effaré.
+Emplit l'homme effaré.
 
 Nous la sentons ramper et grandir sous nos crânes,
 Lier Deutz à Judas, Nemrod à Schinderhannes
-        Tordre ses mille noeuds,
+Tordre ses mille noeuds,
 Et, passants pénétrés de fibres éternelles,
 Tremblants, nous la voyons croiser dans nos prunelles
-        Ses fils vertigineux.
+Ses fils vertigineux.
 
 Et nous apercevons, dans le plus noir de l'arbre,
 Les Hobbes contemplant avec des yeux de marbre,
-        Les Kant aux larges fronts;
+Les Kant aux larges fronts;
 Leur cognée à la main, le pied sur les problèmes,
 Immobiles; la mort a fait des spectres blêmes
-        De tous ces bûcherons.
+De tous ces bûcherons.
 
 Ils sont là, stupéfaits et chacun sur sa branche.
 L'un se redresse, et l'autre, épouvanté, se penche.
-        L'un voulut, l'autre osa,
+L'un voulut, l'autre osa,
 Tous se sont arrêtés en voyant le mystère.
 Zénon rêve tourné vers Pyrrhon, et Voltaire
-        Regarde Spinosa.
+Regarde Spinosa.
 
 Qu'avez-vous donc trouvé, dites, chercheurs sublimes?
 Quels nids avez-vous vus, noirs comme des abîmes,
-        Sur ces rameaux noueux?
+Sur ces rameaux noueux?
 Cachaient-ils des essaims d'ailes sombres ou blanches?
 Dites, avez-vous fait envoler de ces branches
-        Quelque aigle monstrueux?
+Quelque aigle monstrueux?
 
 De quelqu'un qui se tait nous sommes les ministres;
 Le noir réseau du sort trouble nos yeux sinistres;
-        Le vent nous courbe tous;
+Le vent nous courbe tous;
 L'ombre des mêmes nuits mêle toutes les têtes.
 Qui donc sait le secret? le savez-vous, tempêtes?
-        Gouffres, en parlez-vous?
+Gouffres, en parlez-vous?
 
 Le problème muet gonfle la mer sonore,
 Et, sans cesse oscillant, va du soir à l'aurore
-        Et de la taupe au lynx;
+Et de la taupe au lynx;
 L'énigme aux yeux profonds nous regarde obstinée;
 Dans l'ombre nous voyons sur notre destinée
-        Les deux griffes du sphynx.
+Les deux griffes du sphynx.
 
 Le mot, c'est Dieu. Ce mot luit dans les âmes veuves,
 Il tremble dans la flamme; onde, il coule en tes fleuves,
-        Homme, il coule en ton sang;
+Homme, il coule en ton sang;
 Les constellations le disent au silence;
 Et le volcan, mortier de l'infini, le lance
-        Aux astres en passant.
+Aux astres en passant.
 
 Ne doutons pas. Croyons. Emplissons l'étendue
 De notre confiance, humble, ailée, éperdue.
-        Soyons l'immense Oui.
+Soyons l'immense Oui.
 Que notre cécité ne soit pas un obstacle;
 A la création donnons ce grand spectacle
-        D'un aveugle ébloui.
+D'un aveugle ébloui.
 
 Car, je vous le redis, votre oreille étant dure,
 Non est un précipice. O vivants! rien ne dure;
-        La chair est aux corbeaux;
+La chair est aux corbeaux;
 La vie autour de vous croule comme un vieux cloître;
 Et l'herbe est formidable, et l'on y voit moins croître
-        De fleurs que de tombeaux.
+De fleurs que de tombeaux.
 
 Tout, dès que nous doutons, devient triste et farouche.
 Quand il veut, spectre gai, le sarcasme à la bouche
-        Et l'ombre dans les yeux,
+Et l'ombre dans les yeux,
 Rire avec l'infini, pauvre âme aventurière,
 L'homme frissonnant voit les arbres en prière
-        Et les monts sérieux;
+Et les monts sérieux;
 
 Le chêne ému fait signe au cèdre qui contemple;
 Le rocher rêveur semble un prêtre dans le temple
-        Pleurant un déshonneur;
+Pleurant un déshonneur;
 L'araignée, immobile au centre de ses toiles,
 Médite; et le lion, songeant sous les étoiles,
-        Rugit: Pardon, Seigneur!
+Rugit: Pardon, Seigneur!
 
 Jersey, cimetière de Saint-Jean, avril 1854.
 
-
-
-
 VII
 
-
 Un jour, le morne esprit, le prophète sublime
-          Qui rêvait à Patmos,
+Qui rêvait à Patmos,
 Et lisait, frémissant, sur le mur de l'abîme
-          De si lugubres mots,
+De si lugubres mots,
 
 Dit à son aigle: «O monstre! il faut que tu m'emportes.
-          Je veux voir Jéhovah.»
+Je veux voir Jéhovah.»
 L'aigle obéit. Des cieux ils franchirent les portes;
-          Enfin, Jean arriva;
+Enfin, Jean arriva;
 
 Il vit l'endroit sans nom dont nul archange n'ose
-          Traverser le milieu,
+Traverser le milieu,
 Et ce lieu redoutable était plein d'ombre, à cause
-          De la grandeur de Dieu.
+De la grandeur de Dieu.
 
 Jersey, septembre 1855.
-
-
-
 
 VIII
 
 CLAIRE
-
 
 Quoi donc! la vôtre aussi! la vôtre suit la mienne!
 O mère au coeur profond, mère, vous avez beau
@@ -4752,157 +4568,149 @@ Sous l'éblouissement du regard éternel?
 
 Décembre 1846.
 
-
-
-
 IX
 
 À LA FENÊTRE PENDANT LA NUIT
-
 
 I
 
 Les étoiles, points d'or, percent les branches noires;
 Le flot huileux et lourd décompose ses moires
-        Sur l'océan blêmi;
+Sur l'océan blêmi;
 Les nuages ont l'air d'oiseaux prenant la fuite;
 Par moments le vent parle, et dit des mots sans suite,
-        Comme un homme endormi.
+Comme un homme endormi.
 
 Tout s'en va. La nature est l'urne mal fermée.
 La tempête est écume et la flamme est fumée.
-        Rien n'est hors du moment,
+Rien n'est hors du moment,
 L'homme n'a rien qu'il prenne, et qu'il tienne, et qu'il garde.
 Il tombe heure par heure, et, ruine, il regarde
-        Le monde, écroulement.
+Le monde, écroulement.
 
 L'astre est-il le point fixe en ce mouvant problème?
 Ce ciel que nous voyons fut-il toujours le même?
-        Le sera-t-il toujours?
+Le sera-t-il toujours?
 L'homme a-t-il sur son front des clartés éternelles?
 Et verra-t-il toujours les mêmes sentinelles
-        Monter aux mêmes tours?
+Monter aux mêmes tours?
 
 II
 
 Nuits, serez-vous pour nous toujours ce que vous êtes?
 Pour toute vision, aurons-nous sur nos têtes
-        Toujours les mêmes cieux?
+Toujours les mêmes cieux?
 Dis, larve Aldebaran, réponds, spectre Saturne,
 Ne verrons-nous jamais sur le masque nocturne
-        S'ouvrir de nouveaux yeux?
+S'ouvrir de nouveaux yeux?
 
 Ne verrons-nous jamais briller de nouveaux astres?
 Et des cintres nouveaux, et de nouveaux pilastres
-        Luire à notre oeil mortel,
+Luire à notre oeil mortel,
 Dans cette cathédrale aux formidables porches
 Dont le septentrion éclaire avec sept torches,
-        L'effrayant maître-autel?
+L'effrayant maître-autel?
 
 A-t-il cessé, le vent qui fit naître ces roses,
 Sirius, Orion, toi, Vénus, qui reposes
-        Notre oeil dans le péril?
+Notre oeil dans le péril?
 Ne verrons-nous jamais sous ces grandes haleines
 D'autres fleurs de lumière éclore dans les plaines
-        De l'éternel avril?
+De l'éternel avril?
 
 Savons-nous où le monde en est de son mystère?
 Qui nous dit, à nous, joncs du marais, vers de terre
-        Dont la bave reluit,
+Dont la bave reluit,
 A nous qui n'avons pas nous-mêmes notre preuve,
 Que Dieu ne va pas mettre une tiare neuve
-        Sur le front de la nuit?
+Sur le front de la nuit?
 
 III
 
 Dieu n'a-t-il plus de flamme à ses lèvres profondes?
 N'en fait-il plus jaillir des tourbillons de mondes?
-        Parlez, Nord et Midi!
+Parlez, Nord et Midi!
 N'emplit-il plus de lui sa création sainte?
 Et ne souffle-t-il plus que d'une bouche éteinte
-        Sur l'être refroidi?
+Sur l'être refroidi?
 
 Quand les comètes vont et viennent, formidables,
 Apportant la lueur des gouffres insondables,
-        A nos fronts soucieux,
+A nos fronts soucieux,
 Brûlant, volant, peut-être âmes, peut-être mondes,
 Savons-nous ce que font toutes ces vagabondes
-        Qui courent dans nos cieux?
+Qui courent dans nos cieux?
 
 Qui donc a vu la source et connaît l'origine?
 Qui donc, ayant sondé l'abîme, s'imagine
-        En être mage et roi?
+En être mage et roi?
 Ah! fantômes humains, courbés sous les désastres!
 Qui donc a dit:--C'est bien, Éternel. Assez d'astres.
-        N'en fais plus. Calme-toi!--
+N'en fais plus. Calme-toi!--
 
 L'effet séditieux limiterait la cause?
 Quelle bouche ici-bas peut dire à quelque chose:
-        Tu n'iras pas plus loin?
+Tu n'iras pas plus loin?
 Sous l'élargissement sans fin, la borne plie;
 La création vit, croît et se multiplie;
-        L'homme n'est qu'un témoin.
+L'homme n'est qu'un témoin.
 
 L'homme n'est qu'un témoin frémissant d'épouvante.
 Les firmaments sont pleins de la sève vivante
-        Comme les animaux.
+Comme les animaux.
 L'arbre prodigieux croise, agrandit, transforme,
 Et mêle aux cieux profonds, comme une gerbe énorme,
-        Ses ténébreux rameaux.
+Ses ténébreux rameaux.
 
 Car la création est devant, Dieu derrière.
 L'homme, du côté noir de l'obscure barrière,
-        Vit, rôdeur curieux;
+Vit, rôdeur curieux;
 Il suffit que son front se lève pour qu'il voie
 A travers la sinistre et morne claire-voie
-        Cet oeil mystérieux.
+Cet oeil mystérieux.
 
 IV
 
 Donc ne nous disons pas:--Nous avons nos étoiles.--
 Des flottes de soleils peut-être à pleines voiles
-        Viennent en ce moment;
+Viennent en ce moment;
 Peut-être que demain le Créateur terrible,
 Refaisant notre nuit, va contre un autre crible
-        Changer le firmament.
+Changer le firmament.
 
 Qui sait? que savons-nous? sur notre horizon sombre,
 Que la création impénétrable encombre
-        De ses taillis sacrés,
+De ses taillis sacrés,
 Muraille obscure où vient battre le flot de l'être,
 Peut-être allons-nous voir brusquement apparaître
-        Des astres effarés;
+Des astres effarés;
 
 Des astres éperdus arrivant des abîmes,
 Venant des profondeurs ou descendant des cimes,
-        Et, sous nos noirs arceaux,
+Et, sous nos noirs arceaux,
 Entrant en foule, épars, ardents, pareils au rêve,
 Comme dans un grand vent s'abat sur une grève
-        Une troupe d'oiseaux;
+Une troupe d'oiseaux;
 
 Surgissant, clairs flambeaux, feux purs, rouges fournaises,
 Aigrettes de rubis ou tourbillons de braises,
-        Sur nos bords, sur nos monts,
+Sur nos bords, sur nos monts,
 Et nous pétrifiant de leurs aspects étranges,
 Car dans le gouffre énorme il est des mondes anges
-        Et des soleils démons!
+Et des soleils démons!
 
 Peut-être en ce moment, du fond des nuits funèbres,
 Montant vers nous, gonflant ses vagues de ténèbres
-        Et ses flots de rayons,
+Et ses flots de rayons,
 Le muet Infini, sombre mer ignorée,
 Roule vers notre ciel une grande marée
-        De constellations!
+De constellations!
 
 Marine-Terrace, avril 1854.
-
-
-
 
 X
 
 ÉCLAIRCIE
-
 
 L'Océan resplendit sous sa vaste nuée.
 L'onde, de son combat sans fin exténuée,
@@ -4945,11 +4753,7 @@ Tout est doux, calme, heureux, apaisé; Dieu regarde.
 
 Marine-Terrace, juillet 1855.
 
-
-
-
 XI
-
 
 Oh! par nos vils plaisirs, nos appétits, nos fanges,
 Que de fois nous devons vous attrister, archanges!
@@ -4966,13 +4770,9 @@ On fait rougir là-haut quelque passant des cieux!
 
 Juin 1855.
 
-
-
-
 XII
 
 AUX ANGES QUI NOUS VOIENT
-
 
 --Passant, qu'es-tu? je te connais.
 Mais, étant spectre, ombre et nuage,
@@ -4991,13 +4791,9 @@ Oh! cachez-moi, profondes nuits!
 
 Juin 1855.
 
-
-
-
 XIII
 
 CADAVER
-
 
 O mort! heure splendide! ô rayons mortuaires!
 Avez-vous quelquefois soulevé des suaires?
@@ -5057,42 +4853,34 @@ Un commencement d'astre éclôt dans la prunelle.
 
 Au cimetière, août 1855.
 
-
-
-
 XIV
-
 
 Ô gouffre! l'âme plonge et rapporte le doute.
 Nous entendons sur nous les heures, goutte à goutte,
-    Tomber comme l'eau sur les plombs;
+Tomber comme l'eau sur les plombs;
 L'homme est brumeux, le monde est noir, le ciel est sombre;
 Les formes de la nuit vont et viennent dans l'ombre;
-    Et nous, pâles, nous contemplons.
+Et nous, pâles, nous contemplons.
 
 Nous contemplons l'obscur, l'inconnu, l'invisible.
 Nous sondons le réel, l'idéal, le possible,
-    L'être, spectre toujours présent.
+L'être, spectre toujours présent.
 Nous regardons trembler l'ombre indéterminée.
 Nous sommes accoudés sur notre destinée,
-    L'oeil fixe et l'esprit frémissant.
+L'oeil fixe et l'esprit frémissant.
 
 Nous épions des bruits dans ces vides funèbres;
 Nous écoutons le souffle, errant dans les ténèbres,
-    Dont frissonne l'obscurité;
+Dont frissonne l'obscurité;
 Et, par moment, perdus dans les nuits insondables,
 Nous voyons s'éclairer de lueurs formidables
-    La vitre de l'éternité.
+La vitre de l'éternité.
 
 Marine-Terrace, septembre 1853.
-
-
-
 
 XV
 
 A CELLE QUI EST VOILÉE
-
 
 Tu me parles du fond d'un rêve
 Comme une âme parle aux vivants.
@@ -5241,378 +5029,362 @@ Même quand je m'écrie: Amour!
 
 Marine-Terrace, janvier 1854.
 
-
-
-
 XVI
 
 HORROR
-
 
 I
 
 Esprit mystérieux qui, le doigt sur ta bouche,
 Passes... ne t'en va pas! parle à l'homme farouche
-        Ivre d'ombre et d'immensité,
+Ivre d'ombre et d'immensité,
 Parle-moi, toi, front blanc, qui dans ma nuit te penches;
 Réponds-moi, toi qui luis et marches sous les branches,
-        Comme un souffle de la clarté!
+Comme un souffle de la clarté!
 
 Est-ce toi que chez moi minuit parfois apporte?
 Est-ce toi qui heurtais l'autre nuit à ma porte,
-        Pendant que je ne dormais pas?
+Pendant que je ne dormais pas?
 C'est donc vers moi que vient lentement ta lumière?
 La pierre de mon seuil peut-être est la première
-        Des sombres marches du trépas.
+Des sombres marches du trépas.
 
 Peut-être qu'à ma porte ouvrant sur l'ombre immense,
 L'invisible escalier des ténèbres commence;
-        Peut-être, ô pâles échappés,
+Peut-être, ô pâles échappés,
 Quand vous montez du fond de l'horreur sépulcrale,
 O morts, quand vous sortez de la froide spirale,
-        Est-ce chez moi que vous frappez!
+Est-ce chez moi que vous frappez!
 
 Car la maison d'exil, mêlée aux catacombes,
 Est adossée au mur de la ville des tombes.
-        Le proscrit est celui qui sort;
+Le proscrit est celui qui sort;
 Il flotte submergé comme la nef qui sombre;
 Le jour le voit à peine et dit: Quelle est cette ombre?
-        Et la nuit dit: Quel est ce mort?
+Et la nuit dit: Quel est ce mort?
 
 Sois la bienvenue, ombre! ô ma soeur! ô figure
 Qui me fais signe alors que sur l'énigme obscure
-        Je me penche, sinistre et seul;
+Je me penche, sinistre et seul;
 Et qui viens, m'effrayant de ta lueur sublime,
 Essuyer sur mon front la sueur de l'abîme
-        Avec un pan de ton linceul!
+Avec un pan de ton linceul!
 
 II
 
 Oh! que le gouffre est noir et que l'oeil est débile!
 Nous avons devant nous le silence immobile.
-        Qui sommes-nous? où sommes-nous?
+Qui sommes-nous? où sommes-nous?
 Faut-il jouir? faut-il pleurer? Ceux qu'on rencontre
 Passent. Quelle est la loi? La prière nous montre
-        L'écorchure de ses genoux.
+L'écorchure de ses genoux.
 
 D'où viens-tu?--Je ne sais.--Où vas-tu?--Je l'ignore.
 L'homme ainsi parle à l'homme et l'onde au flot sonore.
-        Tout va, tout vient, tout ment, tout fuit.
+Tout va, tout vient, tout ment, tout fuit.
 Parfois nous devenons pâles, hommes et femmes,
 Comme si nous sentions se fermer sur nos âmes
-        La main de la géante nuit.
+La main de la géante nuit.
 
 Nous voyons fuir la flèche et l'ombre est sur la cible.
 L'homme est lancé. Par qui? vers qui? Dans l'invisible.
-        L'arc ténébreux siffle dans l'air.
+L'arc ténébreux siffle dans l'air.
 En voyant ceux qu'on aime en nos bras se dissoudre,
 Nous demandons si c'est pour la mort, coup de foudre,
-        Qu'est faite, hélas! la vie éclair!
+Qu'est faite, hélas! la vie éclair!
 
 Nous demandons, vivants douteux qu'un linceul couvre,
 Si le profond tombeau qui devant nous s'entr'ouvre,
-        Abîme, espoir, asile, écueil,
+Abîme, espoir, asile, écueil,
 N'est pas le firmament plein d'étoiles sans nombre,
 Et si tous les clous d'or qu'on voit au ciel dans l'ombre
-        Ne sont pas les clous du cercueil?
+Ne sont pas les clous du cercueil?
 
 Nous sommes là; nos dents tressaillent, nos vertèbres
 Frémissent; on dirait parfois que les ténèbres,
-        O terreur! sont pleines de pas.
+O terreur! sont pleines de pas.
 Qu'est-ce que l'ouragan, nuit?--C'est quelqu'un qui passe.
 Nous entendons souffler les chevaux de l'espace
-        Traînant le char qu'on ne voit pas.
+Traînant le char qu'on ne voit pas.
 
 L'ombre semble absorbée en une idée unique.
 L'eau sanglote; à l'esprit la forêt communique
-        Un tremblement contagieux;
+Un tremblement contagieux;
 Et tout semble éclairé, dans la brume où tout penche,
 Du reflet que ferait la grande pierre blanche
-        D'un sépulcre prodigieux.
+D'un sépulcre prodigieux.
 
 III
 
 La chose est pour la chose ici-bas un problème.
 L'être pour l'être est sphinx. L'aube au jour paraît blême
-        L'éclair est noir pour le rayon.
+L'éclair est noir pour le rayon.
 Dans la création vague et crépusculaire,
 Les objets effarés qu'un jour sinistre éclaire
-        Sont l'un pour l'autre vision.
+Sont l'un pour l'autre vision.
 
 La cendre ne sait pas ce que pense le marbre;
 L'écueil écoute en vain le flot; la branche d'arbre
-        Ne sait pas ce que dit le vent.
+Ne sait pas ce que dit le vent.
 Qui punit-on ici? Passez sans vous connaître!
 Est-ce toi le coupable, enfant qui viens de naître?
-        O mort, est-ce toi le vivant?
+O mort, est-ce toi le vivant?
 
 Nous avons dans l'esprit des sommets, nos idées,
 Nos rêves, nos vertus, d'escarpements bordées,
-        Et nos espoirs construits si tôt;
+Et nos espoirs construits si tôt;
 Nous tâchons d'appliquer à ces cimes étranges
 L'âpre échelle de feu par où montent les anges;
-        Job est en bas, Christ est en haut.
+Job est en bas, Christ est en haut.
 
 Nous aimons. A quoi bon? Nous souffrons. Pour quoi faire?
 Je préfère mourir et m'en aller. Préfère.
-        Allez, choisissez vos chemins.
+Allez, choisissez vos chemins.
 L'être effrayant se tait au fond du ciel nocturne,
 Et regarde tomber de la bouche de l'urne
-        Le flot livide des humains.
+Le flot livide des humains.
 
 Nous pensons. Après? Rampe, esprit! garde tes chaînes.
 Quand vous vous promenez le soir parmi les chênes
-        Et les rochers aux vagues yeux,
+Et les rochers aux vagues yeux,
 Ne sentez-vous pas l'ombre où vos regards se plongent
 Reculer? Savez-vous seulement à quoi songent
-        Tous ces muets mystérieux?
+Tous ces muets mystérieux?
 
 Nous jugeons. Nous dressons l'échafaud. L'homme tue
 Et meurt. Le genre humain, foule d'erreur vêtue,
-        Condamne, extermine, détruit,
+Condamne, extermine, détruit,
 Puis s'en va. Le poteau du gibet, ô démence!
 O deuil! est le bâton de cet aveugle immense
-        Marchant dans cette immense nuit.
+Marchant dans cette immense nuit.
 
 Crime! enfer! quel zénith effrayant que le nôtre,
 Où les douze Césars toujours l'un après l'autre
-        Reviennent, noirs soleils errants!
+Reviennent, noirs soleils errants!
 L'homme, au-dessus de lui, du fond des maux sans borne,
 Voit éternellement tourner dans son ciel morne
-        Ce zodiaque de tyrans.
+Ce zodiaque de tyrans.
 
 IV
 
 Depuis quatre mille ans que, courbé sous la haine,
 Perçant sa tombe avec les débris de sa chaîne,
-        Fouillant le bas, creusant le haut,
+Fouillant le bas, creusant le haut,
 Il cherche à s'évader à travers la nature,
 L'esprit forçat n'a pas encor fait d'ouverture
-        A la voûte du ciel cachot.
+A la voûte du ciel cachot.
 
 Oui, le penseur en vain, dans ses essors funèbres,
 Heurte son âme d'ombre au plafond de ténèbres;
-        Il tombe, il meurt; son temps est court;
+Il tombe, il meurt; son temps est court;
 Et nous n'entendons rien, dans la nuit qu'il nous lègue
 Que ce que dit tout bas la création bègue
-        A l'oreille du tombeau sourd.
+A l'oreille du tombeau sourd.
 
 Nous sommes les passants, les foules et les races.
 Nous sentons, frissonnants, des souffles sur nos faces.
-        Nous sommes le gouffre agité;
+Nous sommes le gouffre agité;
 Nous sommes ce que l'air chasse au vent de son aile;
 Nous sommes les flocons de la neige éternelle
-        Dans l'éternelle obscurité.
+Dans l'éternelle obscurité.
 
 Pour qui luis-tu, Vénus? Où roules-tu, Saturne?
 Ils vont: rien ne répond dans l'éther taciturne.
-        L'homme grelotte, seul et nu.
+L'homme grelotte, seul et nu.
 L'étendue aux flots noirs déborde, d'horreur pleine;
 L'énigme a peur du mot; l'infini semble à peine
-        Pouvoir contenir l'inconnu.
+Pouvoir contenir l'inconnu.
 
 Toujours la nuit! jamais l'azur! jamais l'aurore!
 Nous marchons. Nous n'avons point fait un pas encore!
-        Nous rêvons ce qu'Adam rêva;
+Nous rêvons ce qu'Adam rêva;
 La création flotte et fuit, des vents battue;
 Nous distinguons dans l'ombre une immense statue
-        Et nous lui disons: Jéhovah!
+Et nous lui disons: Jéhovah!
 
 Marine-Terrace, nuit du 30 mars 1854.
-
-
-
 
 XVII
 
 DOLOR
 
-
 Création! figure en deuil! Isis austère!
 Peut-être l'homme est-il son trouble et son mystère?
-      Peut-être qu'elle nous craint tous,
+Peut-être qu'elle nous craint tous,
 Et qu'à l'heure où, ployés sous notre loi mortelle,
 Hagards et stupéfaits, nous tremblons devant elle,
-      Elle frissonne devant nous!
+Elle frissonne devant nous!
 
 Ne riez point. Souffrez gravement. Soyons dignes,
 Corbeaux, hiboux, vautours, de redevenir cygnes!
-      Courbons-nous sous l'obscure loi.
+Courbons-nous sous l'obscure loi.
 Ne jetons pas le doute aux flots comme une sonde.
 Marchons sans savoir où, parlons sans qu'on réponde,
-      Et pleurons sans savoir pourquoi.
+Et pleurons sans savoir pourquoi.
 
 Homme, n'exige pas qu'on rompe le silence;
 Dis-toi: Je suis puni. Baisse la tête et pense.
-      C'est assez de ce que tu vois.
+C'est assez de ce que tu vois.
 Une parole peut sortir du puits farouche;
 Ne la demande pas. Si l'abîme est la bouche,
-      Ô Dieu, qu'est-ce donc que la voix?
+Ô Dieu, qu'est-ce donc que la voix?
 
 Ne nous irritons pas. Il n'est pas bon de faire,
 Vers la clarté qui luit au centre de la sphère,
-      A travers les cieux transparents,
+A travers les cieux transparents,
 Voler l'affront, les cris, le rire et la satire,
 Et que le chandelier à sept branches attire
-      Tous ces noirs phalènes errants.
+Tous ces noirs phalènes errants.
 
 Nais, grandis, rêve, souffre, aime, vis, vieillis, tombe.
 L'explication sainte et calme est dans la tombe.
-      O vivants, ne blasphémons point.
+O vivants, ne blasphémons point.
 Qu'importe à l'Incréé, qui, soulevant ses voiles,
 Nous offre le grand ciel, les mondes, les étoiles,
-      Qu'une ombre lui montre le poing?
+Qu'une ombre lui montre le poing?
 
 Nous figurons-nous donc qu'à l'heure où tout le prie,
 Pendant qu'il crée et vit, pendant qu'il approprie
-      A chaque astre une humanité,
+A chaque astre une humanité,
 Nous pouvons de nos cris troubler sa plénitude,
 Cracher notre néant jusqu'en sa solitude,
-      Et lui gâter l'éternité?
+Et lui gâter l'éternité?
 
 Être! quand dans l'éther tu dessinas les formes,
 Partout où tu traças les orbites énormes
-      Des univers qui n'étaient pas,
+Des univers qui n'étaient pas,
 Des soleils ont jailli, fleurs de flamme, et sans nombre,
 Des trous qu'au firmament, en s'y posant dans l'ombre,
-      Fit la pointe de ton compas!
+Fit la pointe de ton compas!
 
 Qui sommes-nous? La nuit, la mort, l'oubli, personne.
 Il est. Cette splendeur suffit pour qu'on frissonne.
-      C'est lui l'amour, c'est lui le feu.
+C'est lui l'amour, c'est lui le feu.
 Quand les fleurs en avril éclatent pêle-mêle,
 C'est lui. C'est lui qui gonfle, ainsi qu'une mamelle,
-      La rondeur de l'océan bleu.
+La rondeur de l'océan bleu.
 
 Le penseur cherche l'homme et trouve de la cendre.
 Il trouve l'orgueil froid, le mal, l'amour à vendre,
-      L'erreur, le sac d'or effronté,
+L'erreur, le sac d'or effronté,
 La haine et son couteau, l'envie et son suaire,
 En mettant au hasard la main dans l'ossuaire
-      Que nous nommons humanité.
+Que nous nommons humanité.
 
 Parce que nous souffrons, noirs et sans rien connaître,
 Stupide, l'homme dit:--Je ne veux pas de l'Être!
-      Je souffre; donc, l'Être n'est pas!--
+Je souffre; donc, l'Être n'est pas!--
 Tu n'admires que toi, vil passant, dans ce monde!
 Tu prends pour de l'argent, ô ver, ta bave immonde
-      Marquant la place où tu rampas!
+Marquant la place où tu rampas!
 
 Notre nuit veut rayer ce jour qui nous éclaire;
 Nous crispons sur ce nom nos doigts pleins de colère;
-      Rage d'enfant qui coûte cher!
+Rage d'enfant qui coûte cher!
 Et nous nous figurons, race imbécile et dure,
 Que nous avons un peu de Dieu dans notre ordure
-      Entre notre ongle et notre chair!
+Entre notre ongle et notre chair!
 
 Nier l'Être! à quoi bon? L'ironie âpre et noire
 Peut-elle se pencher sur le gouffre et le boire,
-      Comme elle boit son propre fiel?
+Comme elle boit son propre fiel?
 Quand notre orgueil le tait, notre douleur le nomme.
 Le sarcasme peut-il, en crevant l'oeil à l'homme,
-      Crever les étoiles au ciel?
+Crever les étoiles au ciel?
 
 Ah! quand nous le frappons, c'est pour nous qu'est la plaie.
 Pensons, croyons. Voit-on l'océan qui bégaie,
-      Mordre avec rage son bâillon?
+Mordre avec rage son bâillon?
 Adorons-le dans l'astre, et la fleur, et la femme.
 O vivants, la pensée est la pourpre de l'âme;
-      Le blasphème en est le haillon.
+Le blasphème en est le haillon.
 
 Ne raillons pas. Nos coeurs sont les pavés du temple.
 Il nous regarde, lui que l'infini contemple.
-      Insensé qui nie et qui mord!
+Insensé qui nie et qui mord!
 Dans un rire imprudent, ne faisons pas, fils d'Ève,
 Apparaître nos dents devant son oeil qui rêve,
-      Comme elles seront dans la mort.
+Comme elles seront dans la mort.
 
 La femme nue, ayant les hanches découvertes,
 Chair qui tente l'esprit, rit sous les feuilles vertes;
-      N'allons pas rire à son côté.
+N'allons pas rire à son côté.
 Ne chantons pas:--Jouir est tout. Le ciel est vide.--
 La nuit a peur, vous dis-je! elle devient livide
-      En contemplant l'immensité.
+En contemplant l'immensité.
 
 O douleur! clef des deux, l'ironie est fumée.
 L'expiation rouvre une porte fermée;
-      Les souffrances sont des faveurs.
+Les souffrances sont des faveurs.
 Regardons, au-dessus des multitudes folles,
 Monter vers les gibets et vers les auréoles
-      Les grands sacrifiés rêveurs.
+Les grands sacrifiés rêveurs.
 
 Monter, c'est s'immoler. Toute cime est sévère.
 L'Olympe lentement se transforme en Calvaire;
-      Partout le martyre est écrit;
+Partout le martyre est écrit;
 Une immense croix gît dans notre nuit profonde;
 Et nous voyons saigner aux quatre coins du monde
-      Les quatre clous de Jésus-Christ.
+Les quatre clous de Jésus-Christ.
 
 Ah! vivants, vous doutez! ah! vous riez, squelettes!
 Lorsque l'aube apparaît, ceinte de bandelettes
-      D'or, d'émeraude et de carmin,
+D'or, d'émeraude et de carmin,
 Vous huez, vous prenez, larves que le jour dore,
 Pour la jeter au front céleste de l'aurore,
-      De la cendre dans votre main.
+De la cendre dans votre main.
 
 Vous criez:--Tout est mal. L'aigle vaut le reptile;
 Tout ce que nous voyons n'est qu'une ombre inutile.
-      La vie au néant nous vomit.
+La vie au néant nous vomit.
 Rien avant, rien après. Le sage doute et raille.--
 Et, pendant ce temps-là, le brin d'herbe tressaille,
-      L'aube pleure, et le vent gémit.
+L'aube pleure, et le vent gémit.
 
 Chaque fois qu'ici-bas l'homme, en proie aux désastres,
 Rit, blasphème, et secoue, en regardant les astres,
-      Le sarcasme, ce vil lambeau,
+Le sarcasme, ce vil lambeau,
 Les morts se dressent froids au fond du caveau sombre,
 Et de leur doigt de spectre écrivent--DIEU--dans l'ombre,
-      Sous la pierre de leur tombeau.
+Sous la pierre de leur tombeau.
 
 Marine-Terrace, 31 mars 1854.
 
-
-
-
 XVIII
-
 
 Hélas! tout est sépulcre. On en sort, on y tombe:
 La nuit est la muraille immense de la tombe.
-      Les astres, dont luit la clarté,
+Les astres, dont luit la clarté,
 Orion, Sirius, Mars, Jupiter, Mercure,
 Sont les cailloux qu'on voit dans ta tranchée obscure,
-      O sombre fosse Éternité!
+O sombre fosse Éternité!
 
 Une nuit, un esprit me parla dans un rêve,
 Et me dit:--Je suis aigle en un ciel où se lève
-      Un soleil qui t'est inconnu.
+Un soleil qui t'est inconnu.
 J'ai voulu soulever un coin du vaste voile;
 J'ai voulu voir de près ton ciel et ton étoile;
-      Et c'est pourquoi je suis venu;
+Et c'est pourquoi je suis venu;
 
 Et, quand j'ai traversé les cieux grands et terribles,
 Quand j'ai vu le monceau des ténèbres horribles
-      Et l'abîme énorme où l'oeil fuit,
+Et l'abîme énorme où l'oeil fuit,
 Je me suis demandé si cette ombre où l'on souffre
 Pourrait jamais combler ce puits, et si ce gouffre
-      Pourrait contenir cette nuit!
+Pourrait contenir cette nuit!
 
 Et, moi, l'aigle lointain, épouvanté, j'arrive.
 Et je crie, et je viens m'abattre sur ta rive,
-      Près de toi, songeur sans flambeau.
+Près de toi, songeur sans flambeau.
 Connais-tu ces frissons, cette horreur, ce vertige,
 Toi, l'autre aigle de l'autre azur?--Je suis, lui dis-je,
-      L'autre ver de l'autre tombeau.
+L'autre ver de l'autre tombeau.
 
 Au dolmen de la Corbière, juin 1855.
-
-
-
 
 XIX
 
 VOYAGE DE NUIT
-
 
 On conteste, on dispute, on proclame, on ignore.
 Chaque religion est une tour sonore;
@@ -5669,51 +5441,43 @@ Et l'on sent bien qu'on est emporté vers l'azur.
 
 Marine-Terrace, octobre 1855.
 
-
-
-
 XX
 
 RELLIGIO
 
-
 L'ombre venait; le soir tombait, calme et terrible.
 Hermann me dit:--Quelle est ta foi, quelle est ta bible?
-      Parle. Es-tu ton propre géant?
+Parle. Es-tu ton propre géant?
 Si tes vers ne sont pas de vains flocons d'écume,
 Si ta strophe n'est pas un tison noir qui fume
-      Sur le tas de cendre Néant,
+Sur le tas de cendre Néant,
 
 Si tu n'es pas une âme en l'abîme engloutie,
 Quel est donc ton ciboire et ton eucharistie?
-      Quelle est donc la source où tu bois?
+Quelle est donc la source où tu bois?
 Je me taisais; il dit:--Songeur qui civilises,
 Pourquoi ne vas-tu pas prier dans les églises?--
-      Nous marchions tous deux dans les bois.
+Nous marchions tous deux dans les bois.
 
 Et je lui dis:--Je prie.--Hermann dit:--Dans quel temple?
 Quel est le célébrant que ton âme contemple,
-      Et l'autel qu'elle réfléchit?
+Et l'autel qu'elle réfléchit?
 Devant quel confesseur la fais-tu comparaître?
 --L'église, c'est l'azur, lui dis-je; et quant au prêtre...--
-      En ce moment le ciel blanchit.
+En ce moment le ciel blanchit.
 
 La lune à l'horizon montait, hostie énorme;
 Tout avait le frisson, le pin, le cèdre et l'orme,
-      Le loup, et l'aigle, et l'alcyon;
+Le loup, et l'aigle, et l'alcyon;
 Lui montrant l'astre d'or sur la terre obscurcie,
 Je lui dis:--Courbe-toi. Dieu lui-même officie,
-      Et voici l'élévation.
+Et voici l'élévation.
 
 Marine-Terrace, octobre 1855.
-
-
-
 
 XXI
 
 SPES
-
 
 De partout, de l'abîme où n'est pas Jéhovah,
 Jusqu'au zénith, plafond où l'espérance va
@@ -5745,13 +5509,9 @@ Cette blancheur est plus que toute cette nuit!
 
 Janvier 1856.
 
-
-
-
 XXII
 
 CE QUE C'EST QUE LA MORT
-
 
 Ne dites pas: mourir; dites: naître. Croyez.
 On voit ce que je vois et ce que vous voyez;
@@ -5780,13 +5540,9 @@ Du monstre qui devient dans la lumière un ange.
 
 Au dolmen de la tour Blanche, jour des Morts, novembre 1854.
 
-
-
-
 XXIII
 
 LES MAGES
-
 
 I
 
@@ -6594,58 +6350,50 @@ L'évanouissement des cieux!
 
 Janvier 1856.
 
-
-
-
 XXIV
 
 EN FRAPPANT A UNE PORTE
 
-
 J'ai perdu mon père et ma mère,
 Mon premier né, bien jeune, hélas!
 Et pour moi la nature entière
-      Sonne le glas.
+Sonne le glas.
 
 Je dormais entre mes deux frères;
 Enfants, nous étions trois oiseaux;
 Hélas! le sort change en deux bières
-      Leurs deux berceaux.
+Leurs deux berceaux.
 
 Je t'ai perdue, ô fille chère,
 Toi qui remplis, ô mon orgueil,
 Tout mon destin de la lumière
-      De ton cercueil!
+De ton cercueil!
 
 J'ai su monter, j'ai su descendre.
 J'ai vu l'aube et l'ombre en mes cieux.
 J'ai connu la pourpre, et la cendre
-      Qui me va mieux.
+Qui me va mieux.
 
 J'ai connu les ardeurs profondes,
 J'ai connu les sombres amours;
 J'ai vu fuir les ailes; les ondes,
-      Les vents, les jours.
+Les vents, les jours.
 
 J'ai sur ma tête des orfraies;
 J'ai sur tous mes travaux l'affront,
 Aux pieds la poudre, au coeur des plaies,
-      L'épine au front.
+L'épine au front.
 
 J'ai des pleurs à mon oeil qui pense,
 Des trous à ma robe en lambeau;
 Je n'ai rien à la conscience;
-      Ouvre, tombeau.
+Ouvre, tombeau.
 
 Marine-Terrace, 4 septembre 1855.
-
-
-
 
 XXV
 
 NOMEN, NUMEN, LUMEN
-
 
 Quand il eut terminé, quand les soleils épars,
 Éblouis, du chaos montant de toutes parts,
@@ -6660,13 +6408,9 @@ Les sept astres géants du noir septentrion.
 
 Minuit, au dolmen du Faldouet, mars 1855.
 
-
-
-
 XXVI
 
 CE QUE DIT LA BOUCHE D'OMBRE
-
 
 L'homme en songeant descend au gouffre universel.
 J'errais près du dolmen qui domine Rozel,
@@ -6675,7 +6419,7 @@ Le spectre m'attendait; l'être sombre et tranquille
 Me prit par les cheveux dans sa main qui grandit,
 M'emporta sur le haut du rocher, et me dit:
 
-                            ·
+·
 
 Sache que tout connaît sa loi, son but, sa route;
 Que, de l'astre au ciron, l'immensité s'écoute;
@@ -6719,13 +6463,13 @@ Tout, comme toi, gémit ou chante comme moi;
 Tout parle. Et maintenant, homme, sais-tu pourquoi
 Tout parle? Écoute bien. C'est que vents, ondes, flamme
 Arbres, roseaux, rochers, tout vit!
-                                Tout est plein d'âmes.
+Tout est plein d'âmes.
 
 Mais comment! Oh! voilà le mystère inouï.
 Puisque tu ne t'es pas en route évanoui,
 Causons.
 
-        Dieu n'a créé que l'être impondérable.
+Dieu n'a créé que l'être impondérable.
 Il le fit radieux, beau, candide, adorable,
 Mais imparfait; sans quoi, sur la même hauteur,
 La créature étant égale au créateur,
@@ -6746,10 +6490,10 @@ L'être errait, aile d'or, dans un rayon charmant,
 Et de tous les parfums tour à tour était l'hôte;
 Tout nageait, tout volait.
 
-                            Or, la première faute
+Or, la première faute
 Fut le premier poids.
 
-                      Dieu sentit une douleur.
+Dieu sentit une douleur.
 Le poids prit une forme, et, comme l'oiseleur
 Fuit emportant l'oiseau qui frissonne et qui lutte,
 Il tomba, traînant l'ange éperdu dans sa chute.
@@ -6764,7 +6508,7 @@ Et de tous ces amas des globes se formèrent,
 Et derrière ces blocs naquit la sombre nuit.
 Le mal, c'est la matière. Arbre noir, fatal fruit.
 
-                           ·
+·
 
 Ne réfléchis-tu pas lorsque tu vois ton ombre?
 Cette forme de toi, rampante, horrible, sombre,
@@ -6783,7 +6527,7 @@ L'ange laisse passer à travers lui l'aurore;
 Nul simulacre obscur ne suit l'être aromal;
 Homme, tout ce qui fait de l'ombre a fait le mal.
 
-                           ·
+·
 
 Maintenant, c'est ici le rocher fatidique,
 Et je vais t'expliquer tout ce que je t'indique;
@@ -6791,7 +6535,7 @@ Je vais t'emplir les yeux de nuit et de lueurs.
 Prépare-toi, front triste, aux funèbres sueurs.
 Le vent d'en haut sur moi passe, et, ce qu'il m'arrache,
 Je te le jette; prends, et vois.
-                                Et, d'abord, sache
+Et, d'abord, sache
 Que le monde où tu vis est un monde effrayant
 Devant qui le songeur, sous l'infini ployant,
 Lève les bras au ciel et recule terrible.
@@ -6808,7 +6552,7 @@ Car le dedans du masque est encor la figure.
 Esprit! esprit! esprit! m'écriai-je éperdu.
 Le spectre poursuivit sans m'avoir entendu:
 
-                           ·
+·
 
 Faisons un pas de plus dans ces choses profondes.
 
@@ -6882,7 +6626,7 @@ Et l'on voit tout au fond, quand l'oeil ose y descendre,
 Au delà de la vie, et du souffle et du bruit,
 Un affreux soleil noir d'où rayonne la nuit!
 
-                               ·
+·
 
 Donc, la matière pend à l'idéal, et tire
 L'esprit vers l'animal, l'ange vers le satyre,
@@ -6899,17 +6643,17 @@ Tu le sauras; la tombe est faite pour savoir;
 Tu verras; aujourd'hui, tu ne peux qu'entrevoir;
 Mais, puisque Dieu permet que ma voix t'avertisse,
 Je te parle.
-            Et, d'abord, qu'est-ce que la justice?
+Et, d'abord, qu'est-ce que la justice?
 Qui la rend? qui la fait? où? quand? à quel moment?
 Qui donc pèse la faute? et qui le châtiment?
 
-                                 ·
+·
 
 L'être créé se meut dans la lumière immense.
 
 Libre, il sait où le bien cesse, où le mal commence;
 Il a ses actions pour juges.
-                            Il suffit
+Il suffit
 Qu'il soit méchant ou bon; tout est dit. Ce qu'on fit,
 Crime, est notre geôlier, ou, vertu, nous délivre.
 L'être ouvre à son insu de lui-même le livre;
@@ -6933,15 +6677,15 @@ Ou l'on tombe; et tout être est sa propre balance.
 Dieu ne nous juge point. Vivant tous à la fois,
 Nous pesons, et chacun descend selon son poids.
 
-                               ·
+·
 
 Hommes! nous n'approchons que les paupières closes,
 De ces immensités d'en bas.
-                            Viens, si tu l'oses!
+Viens, si tu l'oses!
 Regarde dans ce puits morne et vertigineux,
 De la création compte les sombres noeuds,
 Viens, vois, sonde:
-                    Au-dessous de l'homme qui contemple,
+Au-dessous de l'homme qui contemple,
 Qui peut être un cloaque ou qui peut être un temple,
 Être en qui l'instinct vit dans la raison dissous,
 Est l'animal courbé vers la terre; au-dessous
@@ -6952,7 +6696,7 @@ Au-dessous de la pierre est le chaos sans nom.
 
 Avançons dans cette ombre et sois mon compagnon.
 
-                               ·
+·
 
 Toute faute qu'on fait est un cachot qu'on s'ouvre
 Les mauvais, ignorant quel mystère les couvre,
@@ -6974,9 +6718,9 @@ D'où tombe, graine obscure en un ténébreux champ,
 
 L'effrayant tourbillon des âmes.
 
-                              ·
+·
 
-                                Tout méchant
+Tout méchant
 Fait naître en expirant le monstre de sa vie,
 Qui le saisit. L'horreur par l'horreur est suivie.
 Nemrod gronde enfermé dans la montagne à pic;
@@ -7014,7 +6758,7 @@ Et le vent qui jadis soufflait sur les Sodomes
 Mêle, dans l'âtre abject et sous le vil chaudron,
 La fumée Érostrate à la flamme Néron.
 
-                            ·
+·
 
 Et tout, bête, arbre et roche, étant vivant sur terre,
 Tout est monstre, excepté l'homme, esprit solitaire.
@@ -7082,9 +6826,9 @@ Arbre, bête, pavé, poids que rien ne soulève,
 Dans cette profondeur terrible, une âme rêve!
 Que fait-elle? Elle songe à Dieu!
 
-                        ·
+·
 
-                                  Fatalité!
+Fatalité!
 Echéance! retour! revers! autre côté!
 O loi! pendant qu'assis à table, joyeux groupes,
 Les pervers, les puissants, vidant toutes les coupes,
@@ -7128,9 +6872,9 @@ Et, Babel renversée, au fond de l'ombre fuit!
 L'homme qui plane et rampe, être crépusculaire,
 En est le milieu.
 
-                           ·
+·
 
-                  L'homme est clémence et colère;
+L'homme est clémence et colère;
 Fond vil du puits, plateau radieux de la tour;
 Degré d'en haut pour l'ombre, et d'en bas pour le jour.
 L'ange y descend, la bête après la mort y monte;
@@ -7154,7 +6898,7 @@ La beauté, le génie, envolés dans l'azur,
 Mêle la peste au souffle idéal des poitrines,
 Et traîne, avec Socrate, Aspasie aux latrines.
 
-                           ·
+·
 
 Par un côté pourtant l'homme est illimité.
 Le monstre a le carcan, l'homme a la liberté.
@@ -7174,7 +6918,7 @@ Où, pour demeurer libre en se faisant meilleure,
 L'âme doive oublier sa vie antérieure.
 Mystère! au seuil de tout l'esprit rêve ébloui.
 
-                           ·
+·
 
 L'homme ne voit pas Dieu, mais peut aller à lui,
 En suivant la clarté du bien, toujours présente;
@@ -7192,7 +6936,7 @@ Puis retombe sur toi, spectre, et redevient noir.
 Tes sages, tes penseurs ont essayé de voir;
 Qu'ont-ils vu? qu'ont-ils fait? qu'ont-ils dit, ces fils d'Ève?
 Rien.
-      Homme! autour de toi la création rêve.
+Homme! autour de toi la création rêve.
 Mille êtres inconnus t'entourent dans ton mur.
 Tu vas, tu viens, tu dors sous leur regard obscur,
 Et tu ne les sens pas vivre autour de ta vie:
@@ -7230,7 +6974,7 @@ Là, dans l'ombre, à tes pieds, homme, ton chien voit Dieu.
 Ah! je t'entends. Tu dis:--Quel deuil! la bête est peu,
 L'homme n'est rien. O loi misérable! ombre! abîme!--
 
-                            ·
+·
 
 O songeur! cette loi misérable et sublime.
 Il faut donc tout redire à ton esprit chétif!
@@ -7271,7 +7015,7 @@ C'est ainsi que du ciel l'âme à pas lents s'empare.
 
 Dans le monstre, elle expie; en l'homme, elle répare.
 
-                           ·
+·
 
 Oui, ton fauve univers est le forçat de Dieu.
 Les constellations, sombres lettres de feu,
@@ -7312,7 +7056,7 @@ Tant d'angoisse est empreinte au front des cénobites!
 
 Je viens de te montrer le gouffre. Tu l'habites.
 
-                              ·
+·
 
 Les mondes, dans la nuit que vous nommez l'azur,
 Par les brèches que fait la mort blême à leur mur,
@@ -7340,7 +7084,7 @@ Sa chevelure d'ombre en ce puits effrayant.
 Ame immortelle, vois, et frémis en voyant:
 Voilà le précipice exécrable où tu sombres.
 
-                               ·
+·
 
 Oh! qui que vous soyez, qui passez dans ces ombres,
 Versez votre pitié sur ces douleurs sans fond!
@@ -7373,7 +7117,7 @@ La mouche, âme, s'envole et se brûle à la flamme;
 Et la flamme, esprit, brûle avec angoisse une âme;
 L'horreur fait frissonner les plumes de l'oiseau;
 Tout est douleur.
-                  Les fleurs souffrent sous le ciseau
+Les fleurs souffrent sous le ciseau
 Et se ferment ainsi que des paupières closes:
 Toutes les femmes sont teintes du sang des roses;
 La vierge au bal, qui danse, ange aux fraîches couleurs,
@@ -7460,129 +7204,125 @@ Le vent gémit, la nuit se plaint, l'eau se lamente,
 Et sous l'oeil attendri qui regarde d'en haut,
 Tout l'abîme n'est plus qu'un immense sanglot.
 
-                                ·
+·
 
 Espérez! espérez! espérez, misérables!
 Pas de deuil infini, pas de maux incurables,
-        Pas d'enfer éternel!
+Pas d'enfer éternel!
 Les douleurs vont à Dieu, comme la flèche aux cibles;
 Les bonnes actions sont les gonds invisibles
-        De la porte du ciel.
+De la porte du ciel.
 
 Le deuil est la vertu, le remords est le pôle
 Des monstres garrottés dont le gouffre est la geôle;
-        Quand, devant Jéhovah,
+Quand, devant Jéhovah,
 Un vivant reste pur dans les ombres charnelles,
 La mort, ange attendri, rapporte ses deux ailes
-        A l'homme qui s'en va
+A l'homme qui s'en va
 
 Les enfers se refont édens; c'est là leur tâche.
 Tout globe est un oiseau que le mal tient et lâche.
-        Vivants, je vous le dis,
+Vivants, je vous le dis,
 Les vertus, parmi vous, font ce labeur auguste
 D'augmenter sur vos fronts le ciel; quiconque est juste
-        Travaille au paradis.
+Travaille au paradis.
 
 L'heure approche. Espérez. Rallumez l'âme éteinte!
 Aimez-vous! aimez-vous, car c'est la chaleur sainte,
-        C'est le feu du vrai jour.
+C'est le feu du vrai jour.
 Le sombre univers, froid, glacé, pesant, réclame
 La sublimation de l'être par la flamme,
-        De l'homme par l'amour!
+De l'homme par l'amour!
 
 Déjà, dans l'océan d'ombre que Dieu domine,
 L'archipel ténébreux des bagnes s'illumine;
-        Dieu, c'est le grand aimant;
+Dieu, c'est le grand aimant;
 Et les globes, ouvrant leur sinistre prunelle,
 Vers les immensités de l'aurore éternelle
-        Se tournent lentement!
+Se tournent lentement!
 
 Oh! comme vont chanter toutes les harmonies,
 Comme rayonneront dans les sphères bénies
-        Les faces de clarté,
+Les faces de clarté,
 Comme les firmaments se fondront en délires,
 Comme tressailleront toutes les grandes lyres
-        De la sérénité,
+De la sérénité,
 
 Quand, du monstre matière ouvrant toutes les serres,
 Faisant évanouir en splendeurs les misères,
-        Changeant l'absinthe en miel,
+Changeant l'absinthe en miel,
 Inondant de beauté la nuit diminuée,
 Ainsi que le soleil tire à lui la nuée
-        Et l'emplit d'arcs-en-ciel,
+Et l'emplit d'arcs-en-ciel,
 
 Dieu, de son regard fixe attirant les ténèbres,
 Voyant vers lui, du fond des cloaques funèbres
-        Où le mal le pria,
+Où le mal le pria,
 Monter l'énormité, bégayant des louanges,
 Fera rentrer, parmi les univers archanges,
-        L'univers paria!
+L'univers paria!
 
 On verra palpiter les fanges éclairées;
 Et briller les laideurs les plus désespérées
-        Au faîte le plus haut,
+Au faîte le plus haut,
 L'araignée éclatante au seuil des bleus pilastres,
 Luire, et se redresser, portant des épis d'astres,
-        La paille du cachot!
+La paille du cachot!
 
 La clarté montera dans tout comme une sève;
 On verra rayonner au front du boeuf qui rêve
-        Le céleste croissant;
+Le céleste croissant;
 Le charnier chantera dans l'horreur qui l'encombre,
 Et sur tous les fumiers apparaîtra dans l'ombre
-        Un Job resplendissant!
+Un Job resplendissant!
 
 O disparition de l'antique anathème!
 La profondeur disant à la hauteur: Je t'aime!
-        O retour du banni!
+O retour du banni!
 Quel éblouissement au fond des cieux sublimes!
 Quel surcroît de clarté que l'ombre des abîmes
-        S'écriant: Sois béni!
+S'écriant: Sois béni!
 
 On verra le troupeau des hydres formidables
 Sortir, monter du fond des brumes insondables
-        Et se transfigurer;
+Et se transfigurer;
 Des étoiles éclore aux trous noirs de leurs crânes,
 Dieu juste! et, par degrés devenant diaphanes,
-        Les monstres s'azurer!
+Les monstres s'azurer!
 
 Ils viendront, sans pouvoir ni parler ni répondre,
 Éperdus! on verra des auréoles fondre
-        Les cornes de leur front;
+Les cornes de leur front;
 Ils tiendront dans leur griffe, au milieu des cieux calmes,
 Des rayons frissonnants semblables à des palmes;
-        Les gueules baiseront!
+Les gueules baiseront!
 
 Ils viendront! ils viendront, tremblants, brisés d'extase,
 Chacun d'eux débordant de sanglots comme un vase
-        Mais pourtant sans effroi;
+Mais pourtant sans effroi;
 On leur tendra les bras de la haute demeure,
 Et Jésus, se penchant sur Bélial qui pleure,
-        Lui dira: C'est donc toi!
+Lui dira: C'est donc toi!
 
 Et vers Dieu par la main il conduira ce frère!
 Et, quand ils seront près des degrés de lumière
-        Par nous seuls aperçus,
+Par nous seuls aperçus,
 Tous deux seront si beaux, que Dieu dont l'oeil flamboie
 Ne pourra distinguer, père ébloui de joie,
-        Bélial de Jésus!
+Bélial de Jésus!
 
 Tout sera dit. Le mal expirera, les larmes
 Tariront; plus de fers, plus de deuils, plus d'alarmes;
-        L'affreux gouffre inclément
+L'affreux gouffre inclément
 Cessera d'être sourd, et bégaiera: Qu'entends-je?
 Les douleurs finiront dans toute l'ombre: un ange
-        Criera: Commencement!
+Criera: Commencement!
 
 Jersey, 1855.
 
 FIN
 
-
-
-
 A CELLE QUI EST RESTÉE EN FRANCE
-
 
 Mets-toi sur ton séant, lève tes yeux, dérange
 Ce drap glacé qui fait des plis sur ton front d'ange,
@@ -7977,107 +7717,89 @@ Le gouffre monstrueux plein d'énormes fumées.
 
 Guernesey, 2 novembre 1855, jour des morts.
 
-
-
-
 TABLE
 DU TOME SECOND
 1843-1856.
-                                                                Pages.
+Pages.
 LIVRE QUATRIÈME.
 PAUCA MEÆ.
 
-    I Pure innocence! vertu sainte!                                 3
-   II 15 FÉVRIER 1843                                               7
-  III TROIS ANS APRÈS                                              11
-   IV Oh! je fus comme fou dans le premier moment                  19
-    V Elle avait pris ce pli dans son âge enfantin                 21
-   VI Quand nous habitions tous ensemble                           23
-  VII Elle était pâle, et pourtant rose                            27
- VIII A qui donc sommes-nous?                                      31
-   IX O souvenirs! printemps! aurore!                              33
-    X Pendant que le marin, qui calcule et qui doute               37
-   XI On vit, on parle                                             39
-  XII A QUOI SONGEAIENT LES DEUX CAVALIERS DANS LA FORÊT           41
- XIII VENI, VIDI, VIXI                                             45
-  XIV Demain, dès l'aube, à l'heure où blanchit la campagne        49
-   XV A VILLEQUIER                                                 51
-  XVI MORS                                                         61
- XVII CHARLES VACQUERIE                                            63
+I Pure innocence! vertu sainte! 3
+II 15 FÉVRIER 1843 7
+III TROIS ANS APRÈS 11
+IV Oh! je fus comme fou dans le premier moment 19
+V Elle avait pris ce pli dans son âge enfantin 21
+VI Quand nous habitions tous ensemble 23
+VII Elle était pâle, et pourtant rose 27
+VIII A qui donc sommes-nous? 31
+IX O souvenirs! printemps! aurore! 33
+X Pendant que le marin, qui calcule et qui doute 37
+XI On vit, on parle 39
+XII A QUOI SONGEAIENT LES DEUX CAVALIERS DANS LA FORÊT 41
+XIII VENI, VIDI, VIXI 45
+XIV Demain, dès l'aube, à l'heure où blanchit la campagne 49
+XV A VILLEQUIER 51
+XVI MORS 61
+XVII CHARLES VACQUERIE 63
 
 LIVRE CINQUIÈME.
 EN MARCHE.
 
-    I A AUG. V                                                     73
-   II AU FILS D'UN POETE                                           75
-  III ÉCRIT EN 1846.--ÉCRIT EN 1855                                79
-   IV La source tombait du rocher                                 101
-    V A MADEMOISELLE LOUISE B.                                    103
-   VI A VOUS QUI ÊTES LÀ                                          109
-  VII Pour l'erreur, éclairer, c'est apostasier                   113
- VIII A JULES J.                                                  115
-   IX LE MENDIANT                                                 119
-    X AUX FEUILLANTINES                                           121
-   XI PONTO                                                       125
-  XII DOLOROSÆ                                                    127
- XIII PAROLES SUR LA DUNE                                         129
-  XIV CLAIRE P.                                                   133
-   XV A ALEXANDRE D.                                              137
-  XVI LUEUR AU COUCHANT                                           139
- XVII MUGITUSQUE BOUM                                             143
-XVIII APPARITION                                                  147
-  XIX AU POETE QUI M'ENVOIE UNE PLUME D'AIGLE                     149
-   XX CERIGO                                                      151
-  XXI A PAUL M.                                                   155
- XXII Je payai le pêcheur, qui passa son chemin                   157
-XXIII Le vallon où je vais tous les jours est charmant            159
- XXIV J'ai cueilli cette fleur pour toi                           163
-  XXV O strophe du poëte                                          165
- XXVI LES MALHEUREUX                                              167
+I A AUG. V 73
+II AU FILS D'UN POETE 75
+III ÉCRIT EN 1846.--ÉCRIT EN 1855 79
+IV La source tombait du rocher 101
+V A MADEMOISELLE LOUISE B. 103
+VI A VOUS QUI ÊTES LÀ 109
+VII Pour l'erreur, éclairer, c'est apostasier 113
+VIII A JULES J. 115
+IX LE MENDIANT 119
+X AUX FEUILLANTINES 121
+XI PONTO 125
+XII DOLOROSÆ 127
+XIII PAROLES SUR LA DUNE 129
+XIV CLAIRE P. 133
+XV A ALEXANDRE D. 137
+XVI LUEUR AU COUCHANT 139
+XVII MUGITUSQUE BOUM 143
+XVIII APPARITION 147
+XIX AU POETE QUI M'ENVOIE UNE PLUME D'AIGLE 149
+XX CERIGO 151
+XXI A PAUL M. 155
+XXII Je payai le pêcheur, qui passa son chemin 157
+XXIII Le vallon où je vais tous les jours est charmant 159
+XXIV J'ai cueilli cette fleur pour toi 163
+XXV O strophe du poëte 165
+XXVI LES MALHEUREUX 167
 
 LIVRE SIXIÈME.
 AU BORD DE L'INFINI.
 
-    I LE PONT                                                     187
-   II IBO                                                         189
-  III Un spectre m'attendait                                      197
-   IV Écoutez. Je suis Jean                                       199
-    V CROIRE, MAIS PAS EN NOUS                                    201
-   VI PLEURS DANS LA NUIT                                         205
-  VII Un jour, le morne esprit, le prophète sublime               239
- VIII CLAIRE                                                      241
-   IX A LA FENÊTRE PENDANT LA NUIT                                251
-    X ÉCLAIRCIE                                                   259
-   XI Oh! par nos vils plaisirs, nos appétits, nos fanges         263
-  XII AUX ANGES QUI NOUS VOIENT                                   265
- XIII CADAVER                                                     267
-  XIV O gouffre! l'âme plonge et rapporte le doute                271
-   XV A CELLE QUI EST VOILÉE                                      273
-  XVI HORROR                                                      281
- XVII DOLOR                                                       289
-XVIII Hélas! tout est sépulcre                                    295
-  XIX VOYAGE DE NUIT                                              297
-   XX RELLIGIO                                                    301
-  XXI SPES                                                        303
- XXII CE QUE C'EST QUE LA MORT                                    305
-XXIII LES MAGES                                                   307
- XXIV EN FRAPPANT À UNE PORTE                                     341
-  XXV NOMEN, NUMEN, LUMEN                                         345
- XXVI CE QUE DIT LA BOUCHE D'OMBRE                                347
+I LE PONT 187
+II IBO 189
+III Un spectre m'attendait 197
+IV Écoutez. Je suis Jean 199
+V CROIRE, MAIS PAS EN NOUS 201
+VI PLEURS DANS LA NUIT 205
+VII Un jour, le morne esprit, le prophète sublime 239
+VIII CLAIRE 241
+IX A LA FENÊTRE PENDANT LA NUIT 251
+X ÉCLAIRCIE 259
+XI Oh! par nos vils plaisirs, nos appétits, nos fanges 263
+XII AUX ANGES QUI NOUS VOIENT 265
+XIII CADAVER 267
+XIV O gouffre! l'âme plonge et rapporte le doute 271
+XV A CELLE QUI EST VOILÉE 273
+XVI HORROR 281
+XVII DOLOR 289
+XVIII Hélas! tout est sépulcre 295
+XIX VOYAGE DE NUIT 297
+XX RELLIGIO 301
+XXI SPES 303
+XXII CE QUE C'EST QUE LA MORT 305
+XXIII LES MAGES 307
+XXIV EN FRAPPANT À UNE PORTE 341
+XXV NOMEN, NUMEN, LUMEN 345
+XXVI CE QUE DIT LA BOUCHE D'OMBRE 347
 
-           A CELLE QUI EST RESTÉE EN FRANCE                       385
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-End of Project Gutenberg's Les contemplations, v 2-2, by Victor Hugo
+A CELLE QUI EST RESTÉE EN FRANCE 385

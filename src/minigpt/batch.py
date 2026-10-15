@@ -9,4 +9,3 @@ def get_batch(text, B, T, device):
     x = text[idex]
     y = text[idex+1]
     return x, y
-x, y = get_batch(torch.randint(0, 10000, (500,), device = "cuda"), 5, 20, "cuda")

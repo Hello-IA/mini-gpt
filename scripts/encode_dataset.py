@@ -5,7 +5,7 @@ import numpy as np
 
 bpe = BPETokenizer.du_fichier("data/save.json")
 corpus_dir = "data/clean"
-files = sorted(f for f in os.listdir(corpus_dir) if f.startswith("hugo_") and f.endswith(".txt"))
+files = sorted(f for f in os.listdir(corpus_dir) if f.endswith(".txt"))
 
 val_files  = ["hugo_Quatrevingt_Treize.txt"]    
 test_files = ["hugo_Notre_Dame_de_Paris.txt"]  

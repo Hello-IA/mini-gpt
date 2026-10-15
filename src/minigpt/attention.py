@@ -36,7 +36,7 @@ def attention(h, W_Q, W_K, W_V, W_O):
     K = reshape_mat(K)
     V = reshape_mat(V)
     K_transpose = torch.transpose(K, 2, 3)
-    M = torch.full((T, T), float("-inf"), device = "cuda")
+    M = torch.full((h.shape[1], h.shape[1]), float("-inf"), device = "cuda")
     M = torch.triu(M, diagonal = 1)
 
     S = (Q @ K_transpose/ math.sqrt(d_k)) + M
@@ -48,7 +48,3 @@ def attention(h, W_Q, W_K, W_V, W_O):
     return concat @ W_O
 
 
-h_cp = X0.clone()
-h_cp[:, 100] += 1
-o1 = attention(X0, W_Q, W_K, W_V, W_O)
-o2 = attention(h_cp, W_Q, W_K, W_V, W_O)

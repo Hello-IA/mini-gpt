@@ -1,0 +1,44 @@
+nohup: les entrées sont ignorées
+train : 37894646 | val : 205748
+paramètres : 19081344
+pas    500 | train 5.5260 | val 4.5959 (ppl 99.1) | lr 6.00e-04 | |g| 0.72 | 1.9 min  <- sauvegardé
+pas   1000 | train 4.1802 | val 4.0480 (ppl 57.3) | lr 5.98e-04 | |g| 0.72 | 4.0 min  <- sauvegardé
+pas   1500 | train 3.8144 | val 3.8484 (ppl 46.9) | lr 5.95e-04 | |g| 0.72 | 6.2 min  <- sauvegardé
+pas   2000 | train 3.6375 | val 3.7280 (ppl 41.6) | lr 5.90e-04 | |g| 0.72 | 8.5 min  <- sauvegardé
+pas   2500 | train 3.5295 | val 3.6474 (ppl 38.4) | lr 5.84e-04 | |g| 0.71 | 10.8 min  <- sauvegardé
+pas   3000 | train 3.4514 | val 3.5898 (ppl 36.2) | lr 5.75e-04 | |g| 0.69 | 13.2 min  <- sauvegardé
+pas   3500 | train 3.3819 | val 3.5409 (ppl 34.5) | lr 5.66e-04 | |g| 0.70 | 15.5 min  <- sauvegardé
+pas   4000 | train 3.3291 | val 3.5021 (ppl 33.2) | lr 5.54e-04 | |g| 0.69 | 17.9 min  <- sauvegardé
+pas   4500 | train 3.2824 | val 3.4640 (ppl 31.9) | lr 5.42e-04 | |g| 0.70 | 20.3 min  <- sauvegardé
+pas   5000 | train 3.2447 | val 3.4341 (ppl 31.0) | lr 5.28e-04 | |g| 0.74 | 22.7 min  <- sauvegardé
+pas   5500 | train 3.2093 | val 3.4138 (ppl 30.4) | lr 5.12e-04 | |g| 0.71 | 25.0 min  <- sauvegardé
+pas   6000 | train 3.1804 | val 3.3859 (ppl 29.5) | lr 4.96e-04 | |g| 0.71 | 27.4 min  <- sauvegardé
+pas   6500 | train 3.1529 | val 3.3678 (ppl 29.0) | lr 4.78e-04 | |g| 0.74 | 29.8 min  <- sauvegardé
+pas   7000 | train 3.1306 | val 3.3378 (ppl 28.2) | lr 4.60e-04 | |g| 0.71 | 32.2 min  <- sauvegardé
+pas   7500 | train 3.1047 | val 3.3356 (ppl 28.1) | lr 4.41e-04 | |g| 0.71 | 34.6 min  <- sauvegardé
+pas   8000 | train 3.0815 | val 3.3162 (ppl 27.6) | lr 4.21e-04 | |g| 0.73 | 37.0 min  <- sauvegardé
+pas   8500 | train 3.0585 | val 3.2883 (ppl 26.8) | lr 4.00e-04 | |g| 0.72 | 39.4 min  <- sauvegardé
+pas   9000 | train 3.0399 | val 3.2803 (ppl 26.6) | lr 3.79e-04 | |g| 0.76 | 41.9 min  <- sauvegardé
+pas   9500 | train 3.0199 | val 3.2606 (ppl 26.1) | lr 3.58e-04 | |g| 0.75 | 44.3 min  <- sauvegardé
+pas  10000 | train 2.9966 | val 3.2552 (ppl 25.9) | lr 3.36e-04 | |g| 0.77 | 46.7 min  <- sauvegardé
+pas  10500 | train 2.9823 | val 3.2422 (ppl 25.6) | lr 3.15e-04 | |g| 0.75 | 49.1 min  <- sauvegardé
+pas  11000 | train 2.9692 | val 3.2113 (ppl 24.8) | lr 2.94e-04 | |g| 0.80 | 51.8 min  <- sauvegardé
+pas  11500 | train 2.9439 | val 3.2153 (ppl 24.9) | lr 2.72e-04 | |g| 0.80 | 54.4 min
+pas  12000 | train 2.9305 | val 3.2049 (ppl 24.7) | lr 2.51e-04 | |g| 0.82 | 57.0 min  <- sauvegardé
+pas  12500 | train 2.9127 | val 3.1874 (ppl 24.2) | lr 2.31e-04 | |g| 0.83 | 59.7 min  <- sauvegardé
+pas  13000 | train 2.8952 | val 3.1747 (ppl 23.9) | lr 2.11e-04 | |g| 0.83 | 62.4 min  <- sauvegardé
+pas  13500 | train 2.8813 | val 3.1669 (ppl 23.7) | lr 1.93e-04 | |g| 0.83 | 65.9 min  <- sauvegardé
+pas  14000 | train 2.8711 | val 3.1514 (ppl 23.4) | lr 1.74e-04 | |g| 0.87 | 68.7 min  <- sauvegardé
+pas  14500 | train 2.8570 | val 3.1524 (ppl 23.4) | lr 1.57e-04 | |g| 0.87 | 71.4 min
+pas  15000 | train 2.8420 | val 3.1458 (ppl 23.2) | lr 1.41e-04 | |g| 0.84 | 74.0 min  <- sauvegardé
+pas  15500 | train 2.8291 | val 3.1284 (ppl 22.8) | lr 1.27e-04 | |g| 0.89 | 76.6 min  <- sauvegardé
+pas  16000 | train 2.8208 | val 3.1315 (ppl 22.9) | lr 1.13e-04 | |g| 0.91 | 79.2 min
+pas  16500 | train 2.8075 | val 3.1237 (ppl 22.7) | lr 1.01e-04 | |g| 0.87 | 81.9 min  <- sauvegardé
+pas  17000 | train 2.7986 | val 3.1227 (ppl 22.7) | lr 9.03e-05 | |g| 0.93 | 84.6 min  <- sauvegardé
+pas  17500 | train 2.7885 | val 3.1114 (ppl 22.5) | lr 8.12e-05 | |g| 0.91 | 87.4 min  <- sauvegardé
+pas  18000 | train 2.7829 | val 3.1053 (ppl 22.3) | lr 7.36e-05 | |g| 0.95 | 90.0 min  <- sauvegardé
+pas  18500 | train 2.7758 | val 3.1089 (ppl 22.4) | lr 6.77e-05 | |g| 0.93 | 92.6 min
+pas  19000 | train 2.7636 | val 3.1052 (ppl 22.3) | lr 6.34e-05 | |g| 0.94 | 95.2 min  <- sauvegardé
+pas  19500 | train 2.7628 | val 3.1004 (ppl 22.2) | lr 6.09e-05 | |g| 0.93 | 97.7 min  <- sauvegardé
+pas  20000 | train 2.7623 | val 3.0993 (ppl 22.2) | lr 6.00e-05 | |g| 0.97 | 100.3 min  <- sauvegardé
+meilleure val : 3.0992902278900147

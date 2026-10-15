@@ -71,13 +71,21 @@ class BPETokenizer:
             self.regel.append(max_ocur)
 
     def encoder(self, texte):
-        texte = self.formatage(texte)
-        for i in range(self.K):
-            pair = self.regel[i]       
-            z = 256 + i                 # l'id du token créé à cette étape
-            for j in range(len(texte)):
-                texte[j] = self.merge(texte[j], pair, z)
-        return texte
+        if not hasattr(self, "rang"):
+            self.rang = {tuple(p): i for i, p in enumerate(self.regel)}
+            self.cache = {}
+        sortie = []
+        for chunk in self.formatage(texte):
+            if chunk not in self.cache:
+                s = list(chunk)
+                while len(s) > 1:
+                    p = min(set(zip(s, s[1:])), key=lambda q: self.rang.get(q, 10**9))
+                    if p not in self.rang:
+                        break
+                    s = self.merge(s, p, 256 + self.rang[p])
+                self.cache[chunk] = s
+            sortie.append(self.cache[chunk])
+        return sortie
     def deplis_recurtions(self, number):
         if number <=255:
             return [number]
